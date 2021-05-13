@@ -31,7 +31,7 @@ The only way forward.
 
 ## Products & Services
 
-Our core product [ApnaBitcoin](https://apna.com) is a mobile application providing `self-custodian & shared-custodian bitcoin storage options; with a simplified account management interface and premium support`. Additionally, we are partnering with local excahnges to provide a simplified INR on-ramp and the option for recurring hourly/daily/weekly BUY's and `automatic sat stacking`.
+Our core product [ApnaBitcoin](https://apna.com) is a mobile application providing `self-custodian & shared-custodian bitcoin storage options; with a simplified account management interface and premium support`. Additionally, we are partnering with local excahnges to provide a simplified INR on-ramp and the option to setup recurring hourly/daily/weekly BUY's for `automatic sat stacking`.
 
 Our services are built to comply with International Privacy and Data Security Standards such as GDPR, ISO 27001 & PCI-DSS.
 Our Bitcoin operation protocol is publically auditable and developed out of the open standard Glacier Protocol & Bitcoin-Core's Hardware Wallet Interface .
