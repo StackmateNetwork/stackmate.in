@@ -1,0 +1,60 @@
+baseURL = "https://stackmate.in"
+languageCode = "en-us"
+title = "Stackmate India"
+theme = "learn"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+# Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
+# Useful to give opportunity to people to create merge request for your doc.
+# See the config.toml file from this documentation site to have an example.
+editURL = "https://github.com/StackmateNetwork/stackmate.in"
+# Author of the site, will be used in meta information
+author = "Vishal Menon - @vmenond"
+# Description of the site, will be used in meta information
+description = "Our mission is to simplify the process of buying, storing & recognizing Bitcoin as an anti-fragile, wealth preservation asset."
+# A title for shortcuts in menu is set by default. Set this to true to disable it.
+# disableShortcutsTitle = false
+# Hide breadcrumbs in the header and only show the current page title
+disableBreadcrumb = true
+# Hide Next and Previous page buttons normally displayed full height beside content
+disableNextPrev = true
+# Order sections in menu by "weight" or "title". Default to "weight"
+ordersectionsby = "weight"
+# Change default color scheme with a variant one. Can be "red", "blue", "green".
+themeVariant = "blue"
+# Provide a list of custom css files to load relative from the `static/` folder in the site root.
+custom_css = ["css/style.css", "css/jsonview.css", "css/blog.css"]
+# Used for social media preview cards
+images = ["images/vault.pdf"]
+
+# Disable the "copy to clipboard" button for inline code
+disableInlineCopyToClipBoard = true
+
+[permalinks]
+tags = "/blog/tags/:slug"
+author = "/blog/authors/:slug"
+blog = "/blog/:year/:month/:title/"
+
+[taxonomies]
+tag = "tags"
+author = "authors"
+category = "categories"
+
+# render raw html
+[markup.goldmark.renderer]
+unsafe = true
+
+
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-book-open'></i> Essential Reading"
+url = "https://nakamotoinstitute.org/literature"
+weight = 5
+
+[[Languages.en.menu.shortcuts]]
+name = "<i style='font-size: 20px' class='fab fa-twitter-square'></i> Follow on Twitter"
+url = "https://twitter.com/menon_92"
+weight = 15

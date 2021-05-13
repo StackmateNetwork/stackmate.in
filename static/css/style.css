@@ -1,0 +1,60 @@
+#examples-table {
+}
+
+#examples-table code, #examples-table td:not(:first-child) {
+    overflow-x: auto;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+}
+
+#examples-table > table > thead > tr > th:nth-child(2) {
+    width: 45%;
+}
+
+#examples-table > table > thead > tr > th:nth-child(2) {
+    width: 45%;
+}
+
+.support-table > table > thead > tr > th:nth-child(1) {
+    width: 25%;
+}
+
+main .supporters {
+	max-width: 640px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.justify-content-left {
+	justify-content: left !important;
+}
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+.p-3 {
+	padding: 1rem !important;
+}
+small, .small {
+	font-size: 80%;
+	font-weight: 400;
+}
+.supporters img {
+	width: 75px !important;
+	height: 75px !important;
+	margin: 1rem auto !important;
+}
+img {
+	vertical-align: middle;
+	border-style: none;
+}
+
+/* Make sure link still get the right color even if they are wrapped in `code` tags */
+a.highlight code {
+    color: var(--MAIN-LINK-color);
+}
