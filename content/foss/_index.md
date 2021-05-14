@@ -9,7 +9,7 @@ pre: '<i class="fas fa-terminal"></i> '
 
 ### Free & Open Source Software (Free as in Free-dom, not Free-Beer)
 
-
+We strive to build software that minimizes dependency and maximizes freedom. 
 
 All your bitcoin operations on Stackmate software preserves your sovereignty. 
 
@@ -17,12 +17,9 @@ This means that the platform ensures that its users are always able to recover t
 
 We provide open source recovery tools and documentation hosted at GitHub, so even if our servers are down, you can use our recovery tools to operate your accounts. 
 
-Our bitcoin-core operations (full node operations) are also open sourced, which means we are being audited by the public, EVERY SINGLE DAY; giving you more transparency on the services you are receiving AND the ability to run parts of it yourself for even higher levels of sovereignty.
-
-We strive to build software that minimizes dependency and maximizes freedom. 
+Our bitcoin-core operations (full node operations) are also open sourced, which means we are being audited by the public, EVERY SINGLE DAY; giving you more guarentees on the services you are receiving AND the ability to run parts of it yourself for even higher levels of sovereignty.
 
 ### Software Stack
-
 
 [linux](https://github.com/torvalds/linux) - Operating System
 
@@ -32,7 +29,7 @@ We strive to build software that minimizes dependency and maximizes freedom.
 
 [cyphernode](https://github.com/SatoshiPortal/cyphernode) - Bitcoin Infrastructure Tooling
 
-[bdk](https://github.com/bitcoindevkit/bdk-cli) - Bitcoin Key Tooling
+[bdk](https://github.com/bitcoindevkit/bdk-cli) - Bitcoin Script Tooling
 
 [postfix](http://www.postfix.org/) - SMTP Mail Protocol Server (Email)
 
