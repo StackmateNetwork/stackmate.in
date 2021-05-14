@@ -5,7 +5,7 @@ This website is built with [Hugo](https://gohugo.io).
 To clone this project use the --recursive option to also clone the themes/learn submodule:
 
    ```
-   git clone --recursive git@github.com:StackMateNetwork/stackmate.in.git
+   git clone --recursive git@github.com:StackmateNetwork/stackmate.in.git
    ```
 
 If you are editing this website, you can run
