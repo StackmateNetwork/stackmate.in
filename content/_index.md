@@ -6,11 +6,11 @@ draft: false
 
 # Stackmate India
 
-Our mission is to simplify the process of recognizing, buying & storing Bitcoin; as an anti-fragile, wealth preservation asset and tool for social evolution.
+Our mission is to simplify the process of recognizing, buying & storing Bitcoin; as a human right and value preserving asset.
 
 ## Products & Services
 
-Our core product [Apna](https://apna.sh) is a mobile application providing `self-custodian & shared-custodian bitcoin storage options; with a simplified account management interface and premium support`. Additionally, we are exploring partnerships with local excahnges to provide a simplified INR on-ramp and the option to setup recurring hourly/daily/weekly BUY's for `automatic sat stacking`.
+Our core product is a mobile wallet application providing `self-custodian & shared-custodian bitcoin storage options; with a simplified account management interface and premium support`. Additionally, we are exploring partnerships with local excahnges to provide a simplified INR on-ramp and the option to setup recurring hourly/daily/weekly BUY's for `automatic sat stacking`.
 
 Our Bitcoin operation protocol is publically auditable and developed out of the open standard Glacier Protocol & Bitcoin-Core's Hardware Wallet Interface.
 

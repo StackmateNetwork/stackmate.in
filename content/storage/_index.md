@@ -35,15 +35,15 @@ Either your exchange OR you, could get compromised.
 # Shared-Custody
 
 ```text
-Our mobile wallet ApnaBitcoin, at its core, seeks to to provide greater Ease-of-Use for shared-custody wallets.
+Our mobile wallet, at its core, seeks to to provide greater Ease-of-Use for shared-custody wallets.
 ```
 With shared custody, coins are locked by MORE THAN ONE KEY - offering the highest levels of security Bitcoin has to offer. 
 
 With shared-custody - `a single compromised key does not result in loss of funds` 
 
-ApnaBitcoin allows you to appoint any other Bitcoin holder to take part in a scripted Bitcoin contract, and create additional layers of protection around your Bitcoin.
+We allow you to appoint ANY other Bitcoin holder to take part in a scripted Bitcoin contract, and create additional layers of protection around your Bitcoin.
 
-You can pair ApnaBitcoin with your existing hardware wallet to monitor your solo account, generate addresses to receive funds, monitor history and even build transactions* for you to sign as an individual key holder and broadcast. 
+You can pair the mobile wallet with your existing hardware to monitor a solo account, generate addresses to receive funds, monitor history and even build transactions* for you to sign as an individual key holder and broadcast. 
 
 > ** `PartiallySignedBitcoinTransaction` or `psbt` is how we build transactions with only public key data; preparing it for the private key holder to sign. We work seamlessly with any wallet that supports `psbt`. 
 
@@ -51,12 +51,14 @@ Additionally, the same hardware public key can be used to create a new multi-sig
 
 This new multi-sig wallet will generate its own set of addresses into which you can receive funds.
 
-Moving these funds will require both one to sign and pass over to the next, a `psbt` to finalize and broadbast to the network.
+This allows you to create multiple wallets from a single hardware signer, each with different spending conditions involving other bitcoiners.
+
 
 ```
-ApnaBitcoin pairs best with ColdCard or Trezor.
+The mobile wallet pairs best with ColdCard or Trezor.
 ```
-This allows you to create multiple wallets from a single hardware signer, each with different spending conditions involving other bitcoiners.
+Moving these funds will require an initiating party to sign and pass over to the next, a `psbt` to finalize and broadbast to the network.
+
 
 Our servers only require your public keys to help you manage your account. You and your chosen signatories' are the sole custodians of the coin. 
 
@@ -68,35 +70,54 @@ The most common form of a shared-custody contract is a `multi-signature`.
 
 Multi-signature is a spending condition where more than one key has to sign a transaction to move the coin locked in these addresses.
 
-This means there is n/m possibilities of multi-sig. So we made it simple. 
+This means there are n/m possibilities of multi-sig. So we made it simple. 
 
 ```
-We offer three types of multi-signature configurations:
+We offer three types of multi-signature configurations as paid services:
 ```
 
 ##  Jetski
 ### 2/3 Multi-Sig w/server
-> Est. July 15, 2021
+#### Built for individuals
+> Est. August 18, 2021
 
 In this setup, you maintain control of 2/3 keys, where one key is on your mobile device for easy signing, and the other key is in your cold hardware, just to use incase of emergency. 
 
-For daily spending, your mobile key and our server as an automated signatory, can move funds. 
+For daily spending, your mobile key and our server as an automated signatory, can move funds.
 
 If you lose your mobile and/or its associated seed, you can still recover it with your hardware wallet and our signature.
 
-A signatory partner for individuals.
+> Multi-sig that feels like a single sig. With taproot support in progress, this will soon even look like single sig.
 
-## Cruiser
-### [3-4]/5  (server optional)
-> Est. July 15, 2021
+`Cost: 420,000 sats/year`
 
-The same setup as above, for a household; where we maintain a single key as a backup and optional automated signatory.
+## Yacht
+### [3-4]/5 Multi-Sig (server optional)
+#### Built for households and small businesses
 
-## Submarine (server optional)
-### [5-9]/12 
-> Est. July 15, 2021
+> Est. September 18, 2021
 
-The same setup as above, for joint families.
+The same setup as above with:
+- 5 key threshold
+- extended support over Jitsi
+- 1 hardware wallet of choice between [Trezor](https://trezor.io) (Beginner) OR [ColdCard](https://coldcardwallet.com) (Advanced)
+
+`Cost: 3 million sats/year`
+
+## Submarine
+### [5-9]/12 Multi-Sig
+#### Built for enterprise.
+
+> Est. September 18, 2021
+
+The same setup as above with:
+- 9 key threshold
+- custom scripts and specialized bitcoin infrastructure
+- premium support over Signal w/a dedicated account manager.
+- 3 hardware wallets of choice between [Trezor](https://trezor.io) (Beginner) OR [ColdCard](https://coldcardwallet.com) (Advanced)
+
+
+`Cost: 9 million sats/year`
 
 # Timelocks
 
@@ -106,10 +127,14 @@ Bitcoin allows us to create spending conditions that will alter over time.
 
 Similar to multi-sigs; there a large number of arbitrary possibilites with timelocks, so we condensed it down to a few:
 
-## Shoulders-of-Giants
-> Est. September 15, 2021
+## Raft
+#### Built for everyone
 
-In this setup, you are the only required signatory for a given period of time; after which another public key can also sign as the only required signatory.
+> Est. December 09, 2021. 
+
+> The reason this is lasts is because it requires an update from bitcoin-core. Hang in there ;)
+
+In this setup, you set a time in the future as a failsafe timelock. Appoint another Bitcoiner to be your raft partner by requesting their public key. Allow only yourself to move the funds at any point in time and allow your partner to move the coin ONLY AFTER the timelock. 
 
 Use cases of this include 
 
@@ -117,3 +142,6 @@ Use cases of this include
 
 `create a will or inheritence plan, where rather than sharing copies of your seed(subject to the angry rogue son problem), you create a more sovereign contract for your wealth to be securely handed down.`
 
+```
+Cost: : FREE
+```

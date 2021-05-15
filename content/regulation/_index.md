@@ -12,7 +12,7 @@ Amidst all the FUD being spread over the media by various public sector entities
 
 ####  YOU expended TIME and ENERGY to create value in this world; it is your birth right to preserve it in the medium you see fit; be it a very large number, a metal, a rock, a piece of paper, promises or whatever YOU choose.
 
-* For regulatory simplicity (taxation etc.), Bitcoin can be treated as gold. 
+* For regulatory simplicity, Bitcoin can be treated like gold or silver. 
 
 <br>
 

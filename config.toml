@@ -48,7 +48,6 @@ category = "categories"
 unsafe = true
 
 
-
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-book-open'></i> Essential Reading"
 url = "https://nakamotoinstitute.org/literature"

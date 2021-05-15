@@ -25,15 +25,15 @@ Our bitcoin-core operations (full node operations) are also open sourced, which 
 
 [ossec](https://github.com/ossec/ossec) - System Monitoring
 
-[bitcoin](https://github.com/bitcoin/bitcoin) - Money Protocol Server
+[bitcoin](https://github.com/bitcoin/bitcoin) - BTC Money Protocol Server
 
 [cyphernode](https://github.com/SatoshiPortal/cyphernode) - Bitcoin Infrastructure Tooling
 
 [bdk](https://github.com/bitcoindevkit/bdk-cli) - Bitcoin Script Tooling
 
-[postfix](http://www.postfix.org/) - SMTP Mail Protocol Server (Email)
+[postfix](http://www.postfix.org/) - SMTP Mail Protocol Server
 
-[nginx](https://github.com/nginx/nginx) - HTTP Communication Protocol Server (Web)
+[nginx](https://github.com/nginx/nginx) - HTTP Web Protocol Server
 
 [vault](https://github.com/hashicorp/vault) - Secret Manager
 
@@ -43,7 +43,7 @@ Our bitcoin-core operations (full node operations) are also open sourced, which 
 
 [docker](https://github.com/docker) - Containerization Technology
 
-[ansible](https://github.com/ansible/ansible) - Configuration Management & Admin Automation
+[ansible](https://github.com/ansible/ansible) - Configuration Management & Automation
 
 [terraform](https://github.com/hashicorp/terraform) - Cloud Resource Provisioning
 

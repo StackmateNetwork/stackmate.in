@@ -14,16 +14,16 @@ We have filtered the top exchanges to BUY Bitcoin in India and compared them bas
 
 > Lower values = higher ranked
 
-| Feature | WazirX | ThroughBit(OTC) | CoinSwitch(OTC) | Binance | LocalBitcoins
-| -------- | --------------- | --------------- | ------------ | ------------ | ------------ |
-| Ease-of-use | 3 | 2 | 1 | 5 | 4 |
-| Privacy | 3 | 4 | 5 | 2 | 1 |
-| Low Fees | 2 | 3 | 4 | 1 | 5 |
-| Support | 2 | 1 | 4 | 3 | 5 |
-| Local Reputation | 1 | 2 | 3 | 4 | 5 |
-| Liquidity | 3 | 4 | 5 | 1 | 2 |
-| Uptime | 3 | 5 | 4 | 2 | 1 |
-| Total  | 17  |  21 | 26  | 18  | 23  |
+| Feature | [WazirX](https://wazirx.com/invite/qp48jjwc) | [ThroughBit.OTC](https://otc.throughbit.com)  | [CoinSwitch.OTC](https://coinswitch.com) | [Binance](https://www.binance.com/en-IN) | [LocalBitcoins](https://localbitcoins.com/instant-bitcoins/?action=buy&amount=&currency=INR&country_code=IN&online_provider=ALL_ONLINE&find-offers=Search) | [Unocoin.OTC](https://unocoin.com)
+| -------- | --------------- | --------------- | ------------ | ------------ | ------------ | ------------ |
+| Ease-of-use      | 5 | 2 | 1 | 3 | 6 | 4 |
+| Privacy          | 3 | 4 | 6 | 2 | 1 | 5 |
+| Low Fees         | 2 | 3 | 4 | 1 | 6 | 5 |
+| Support          | 2 | 1 | 4 | 3 | 5 | 6 | 
+| Local Reputation | 1 | 2 | 3 | 5 | 6 | 4 |
+| Liquidity        | 3 | 5 | 6 | 1 | 2 | 4 |
+| Uptime           | 3 | 6 | 4 | 2 | 1 | 5 |
+| Total            |19 |23 |28 |18 |27 |33 |
 </div>
 
 ### OTC: Over the counter
