@@ -132,7 +132,7 @@ Similar to multi-sigs; there a large number of arbitrary possibilites with timel
 
 > Est. December 09, 2021. 
 
-> The reason this is lasts is because it requires an update from bitcoin-core. Hang in there ;)
+> The reason this is last on our roadmap is because it requires an update from bitcoin-core. Hang in there ;)
 
 In this setup, you set a time in the future as a failsafe timelock. Appoint another Bitcoiner to be your raft partner by requesting their public key. Allow only yourself to move the funds at any point in time and allow your partner to move the coin ONLY AFTER the timelock. 
 
