@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professionals on Stackmate India</title>
+    <link>https://stackmate.in/professionals/</link>
+    <description>Recent content in Professionals on Stackmate India</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2020 14:40:12 +0200</lastBuildDate>
+    
+	<atom:link href="https://stackmate.in/professionals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
