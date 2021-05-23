@@ -14,7 +14,7 @@ editURL = "https://github.com/StackmateNetwork/stackmate.in"
 # Author of the site, will be used in meta information
 author = "Vishal Menon - @vmenond"
 # Description of the site, will be used in meta information
-description = "Our mission is to simplify the process of buying, storing & recognizing Bitcoin as an anti-fragile, wealth preservation asset."
+description = "Our mission is to simplify the process of buying, storing & recognizing Bitcoin as a human right and wealth preserving asset."
 # A title for shortcuts in menu is set by default. Set this to true to disable it.
 # disableShortcutsTitle = false
 # Hide breadcrumbs in the header and only show the current page title
@@ -53,7 +53,4 @@ name = "<i class='fas fa-book-open'></i> Essential Reading"
 url = "https://nakamotoinstitute.org/literature"
 weight = 5
 
-[[Languages.en.menu.shortcuts]]
-name = "<i style='font-size: 20px' class='fab fa-twitter-square'></i> Follow on Twitter"
-url = "https://twitter.com/menon_92"
-weight = 15
+

@@ -13,6 +13,8 @@ Bitcoin storage can be broadly classified into three, ranked based on expected f
 
 <div class="descriptor-support-table">
 
+> Rank #1 is best
+
 | Features | Custodian | Self-Custody | Shared-Custody |
 | -------- | --------------- | --------------- | ------------ |
 |Definition| Coins held by your partner on your behalf.| Coins held by you alone.| Coins held by you AND a your partner(s), based on pre-defined conditions. | 
@@ -37,32 +39,29 @@ Either your exchange OR you, could get compromised.
 ```text
 Our mobile wallet, at its core, seeks to to provide greater Ease-of-Use for shared-custody wallets.
 ```
-With shared custody, coins are locked by MORE THAN ONE KEY - offering the highest levels of security Bitcoin has to offer. 
+With shared custody, coins are locked by MORE THAN ONE KEY.
 
-With shared-custody - `a single compromised key does not result in loss of funds` 
+This means - `a single compromised key does not result in loss of funds` 
 
 We allow you to appoint ANY other Bitcoin holder to take part in a scripted Bitcoin contract, and create additional layers of protection around your Bitcoin.
 
 You can pair the mobile wallet with your existing hardware to monitor a solo account, generate addresses to receive funds, monitor history and even build transactions* for you to sign as an individual key holder and broadcast. 
 
-> ** `PartiallySignedBitcoinTransaction` or `psbt` is how we build transactions with only public key data; preparing it for the private key holder to sign. We work seamlessly with any wallet that supports `psbt`. 
+> ** `PartiallySignedBitcoinTransaction` or `psbt` is representation of a bitcoin transaction, which can be created with only public key data. This `psbt` can then passed to the approriate private key holder to sign and broadcast. We work seamlessly with any wallet that supports `psbt`. 
 
-Additionally, the same hardware public key can be used to create a new multi-sig wallet with another friend's hardware as the second signatory.
 
-This new multi-sig wallet will generate its own set of addresses into which you can receive funds.
+Additionally, the same hardware public key can be used to create a new multi-sig contract with another friend's hardware as the second signatory.
 
-This allows you to create multiple wallets from a single hardware signer, each with different spending conditions involving other bitcoiners.
+This new multi-sig contract will generate its own set of addresses into which you can receive funds.
+
+This allows you to create multiple contracts from a single hardware signer, each with different spending conditions involving other bitcoiners.
 
 
 ```
 The mobile wallet pairs best with ColdCard or Trezor.
 ```
-Moving these funds will require an initiating party to sign and pass over to the next, a `psbt` to finalize and broadbast to the network.
+Moving these funds will require an initiating party to sign a `psbt` and pass over to the next signatory to finalize and broadbast to the network.
 
-
-Our servers only require your public keys to help you manage your account. You and your chosen signatories' are the sole custodians of the coin. 
-
-Where you chose our server to be a signatory, it only maintains ITS OWN private key, and all other signatories' public keys.
 
 # Multi-Signature
 

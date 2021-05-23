@@ -2,28 +2,28 @@
 title: "Buy Bitcoin"
 date: 2020-04-28T14:40:12+02:00
 draft: false
-weight: 1
+weight: 2
 pre: '<i class="fas fa-coins"></i> '
 ---
 
 ### Exchanges
 
-We have filtered the top exchanges to BUY Bitcoin in India and compared them based on features desired from an ideal exchange.
+We have filtered the top exchanges to BUY Bitcoin in India and ranked them based on features desired from an ideal exchange.  
 
 <div class="descriptor-support-table">
 
-> Lower values = higher ranked
+> Rank #1 is best
 
 | Feature | [WazirX](https://wazirx.com/invite/qp48jjwc) | [ThroughBit.OTC](https://otc.throughbit.com)  | [CoinSwitch.OTC](https://coinswitch.com) | [Binance](https://www.binance.com/en-IN) | [LocalBitcoins](https://localbitcoins.com/instant-bitcoins/?action=buy&amount=&currency=INR&country_code=IN&online_provider=ALL_ONLINE&find-offers=Search) | [Unocoin.OTC](https://unocoin.com)
 | -------- | --------------- | --------------- | ------------ | ------------ | ------------ | ------------ |
 | Ease-of-use      | 5 | 2 | 1 | 3 | 6 | 4 |
 | Privacy          | 3 | 4 | 6 | 2 | 1 | 5 |
 | Low Fees         | 2 | 3 | 4 | 1 | 6 | 5 |
-| Support          | 2 | 1 | 4 | 3 | 5 | 6 | 
+| Support          | 4 | 3 | 5 | 1 | 2 | 6 | 
 | Local Reputation | 1 | 2 | 3 | 5 | 6 | 4 |
 | Liquidity        | 3 | 5 | 6 | 1 | 2 | 4 |
 | Uptime           | 3 | 6 | 4 | 2 | 1 | 5 |
-| Total            |19 |23 |28 |18 |27 |33 |
+| Total            |21 |25 |29 |18 |24 |33 |
 </div>
 
 ### OTC: Over the counter

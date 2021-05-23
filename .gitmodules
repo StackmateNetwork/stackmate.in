@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/StackmateNetwork/stackmate.in.git
+	branch = master

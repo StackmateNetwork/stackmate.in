@@ -9,15 +9,17 @@ pre: '<i class="fas fa-terminal"></i> '
 
 ### Free & Open Source Software (Free as in Free-dom, not Free-Beer)
 
-We strive to build software that minimizes dependency and maximizes freedom. 
+We love FOSS! 
 
-All your bitcoin operations on Stackmate software preserves your sovereignty. 
+FOSS empowered us to do what we do, and we want to extend that out to users.
 
-This means that the platform ensures that its users are always able to recover their coins with publicly avaiable and battle tested free and open source software.
+As a user of our products & services, you can recover your coins with publicly avaiable and battle tested free and open source software.
 
-We provide open source recovery tools and documentation hosted at GitHub, so even if our servers are down, you can use our recovery tools to operate your accounts. 
+This minimizes a users dependency on the service, and maximizes freedom.
 
-Our bitcoin-core operations (full node operations) are also open sourced, which means we are being audited by the public, EVERY SINGLE DAY; giving you more guarentees on the services you are receiving AND the ability to run parts of it yourself for even higher levels of sovereignty.
+We provide open source recovery tools and documentation hosted at GitHub, so even if we face downtime, you can use our recovery tools to operate your accounts. 
+
+Our bitcoin-core operations (full node operations) are open sourced, giving you more guarentees on the services you are receiving AND the ability to run parts of it yourself for even higher levels of sovereignty.
 
 ### Software Stack
 
