@@ -28,7 +28,7 @@ themeVariant = "blue"
 # Provide a list of custom css files to load relative from the `static/` folder in the site root.
 custom_css = ["css/style.css", "css/jsonview.css", "css/blog.css"]
 # Used for social media preview cards
-images = ["images/vault.pdf"]
+images = ["static/images/vault.pdf"]
 
 # Disable the "copy to clipboard" button for inline code
 disableInlineCopyToClipBoard = true
@@ -54,3 +54,8 @@ url = "https://nakamotoinstitute.org/literature"
 weight = 5
 
 
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-headphones-alt'></i> Essential Listening"
+url = "https://bitcoinaudible.com/library/"
+weight = 4

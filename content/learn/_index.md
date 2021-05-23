@@ -7,11 +7,22 @@ pre: '<i class="fas fa-graduation-cap"></i> '
 ---
 
 
+### A tool for social evolution
+
+We often find ourselves projecting hatred towards money. Poverty is often seen as a side-effect of it. However, it is not money, rather FIAT money, that has created this reputation. `Fiat is a fundamentally rigged system.` This means, the incentives of those who take part in this system are rooted from biased first principles. 
+
+`A bitcoin standard fundamentally changes economic incentives.` The debt based fiat economy is the cause of half the worlds problems today, where a few advance at the expense of the many. It is not the fault of any one single individual, rather from our collective acceptance of such a system that corrupts the incentives of man. 
+
+For civilization to advance, we must seek the truth, and Bitcoin has provided us with the tools and memes to begin doing so. 
+
+Bitcoin is the only instance of a `decentralized & immutable` ledger of economic activity. The digital equivalent of `carving facts into stones`.
+
+
 ### A global decentralized payment network
 
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. - Satoshi (2009)
 
-It is critical to understand that Bitcoin, above all else, is a network of individuals (peers) maintaining a ledger by a certain set of rules (consensus); thereby enforcing a protocol around it. We all collectively agree on which software to run - [Bitcoin](https://github.com/bitcoin/bitcoin) and which platforms to conduct technical & social discussions on - currently [Github](https://github.com/bitcoin/bitcoin) & [Twitter](https://twitter.com). 
+Bitcoin is a network of individuals (peers) maintaining a financial ledger, by a certain set of rules (consensus); thereby enforcing a protocol around it. We all collectively agree on which software to run - [Bitcoin](https://github.com/bitcoin/bitcoin) and which platforms to conduct technical & social discussions on - currently [Github](https://github.com/bitcoin/bitcoin) & [Twitter](https://twitter.com). 
 
 Bitcoin peers are spread across the globe and hold common values for what constitutes a sound monetary base aka money. These values are hard to change, just like the properties of natural elements like gold.  While this can make Bitcoin seem slow and boring, this is what gives it reliability.
 
@@ -72,13 +83,3 @@ Examples of this include:
 The bitcoin base layer must always support decentralization, which means keeping the size of blocks small so that new peers can join the network and easily run a full node and maintain a copy of the entire ledger.
 
 This protects the network for coordinated attacks and ensures much higher availability and reliability than any centralized or weakly decentralized system.
-
-### A tool for social evolution
-
-We often find ourselves projecting hatred towards money. Poverty is often seen as a side-effect of it. However, it is not money, rather FIAT money, that has created this reputation. `Fiat is a fundamentally rigged system.` This means, the incentives of those who take part in this system are rooted from biased first principles. 
-
-`A bitcoin standard fundamentally changes economic incentives.` The debt based fiat economy is the cause of half the worlds problems today, where a few advance at the expense of the many. It is not the fault of any one single individual, rather from our collective acceptance of such a system that corrupts the incentives of man. 
-
-For civilization to advance, we must seek the truth, and Bitcoin has provided us with the tools and memes to begin doing so. 
-
-Bitcoin is the only instance of a `decentralized & immutable` ledger of economic activity. The digital equivalent of `carving facts into stones`.

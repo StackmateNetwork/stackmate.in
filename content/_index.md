@@ -10,11 +10,18 @@ Our mission is to simplify the process of recognizing, buying & storing Bitcoin;
 
 ## Products & Services
 
-Our core product is a mobile wallet application providing `self-custodian & shared-custodian bitcoin storage options; with a simplified account management interface and premium support`. Additionally, we are exploring partnerships with local excahnges to provide a simplified INR on-ramp and the option to setup recurring hourly/daily/weekly BUY's for `automatic sat stacking`.
+Our core product is a mobile wallet application providing `self-custody & shared-custody bitcoin storage options; with a simplified account management interface and premium support`. 
 
-Our Bitcoin operation protocol is publically auditable and developed out of the open standard Glacier Protocol & Bitcoin-Core's Hardware Wallet Interface.
+> Features:
 
-Additionally, our systems are also compliant with International Privacy and Data Security Standards such as GDPR, ISO 27001 & PCI-DSS.
+- Create/Import a seed on your mobile device and manage a live/hot wallet
+- Import a public key from your hardware or paper wallet and manage a cold wallet
+- Use an existing wallet public key to create a new script wallet involving other parties. Eg. Multi-Sig & Timelocks
+- Custom news feed that will help you surf through the FUD
+- Customized support
+- Hardware distribution
+
+Additionally, we are exploring partnerships with local exchanges to provide a simplified INR on-ramp and the option to setup recurring hourly/daily/weekly BUY's for `automatic sat stacking`.
 
 
 <img src="/images/google-play-badge.png" alt="PlayStore" style="width:100; height:25"/>
