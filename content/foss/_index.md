@@ -17,15 +17,17 @@ As a user of our products & services, you can recover your coins with publicly a
 
 This minimizes a users dependency on the service, and maximizes freedom.
 
-We provide open source recovery tools and documentation hosted at GitHub, so even if we face downtime, you can use our recovery tools to operate your accounts. 
+We provide open source recovery tools and documentation both in our `blog` section and soon to be hosted at GitHub, so even if we face downtime, you can use our recovery tools to operate your accounts. 
 
-Our bitcoin-core operations (full node operations) are open sourced, giving you more guarentees on the services you are receiving AND the ability to run parts of it yourself for even higher levels of sovereignty.
+### Our favorites
 
-### Software Stack
+Check out their github and do'nt be afraid to start a conversation and contribute at any level be it <em>branding, content or code</em>.
 
 [linux](https://github.com/torvalds/linux) - Operating System
 
-[ossec](https://github.com/ossec/ossec) - System Monitoring
+[pier](https://github.com/pier-cli/pier) - Script Management Tool
+
+[vagrant](https://github.com/hashicorp/vagrant) - Development Environment Simulator
 
 [bitcoin](https://github.com/bitcoin/bitcoin) - BTC Money Protocol Server
 
@@ -34,6 +36,8 @@ Our bitcoin-core operations (full node operations) are open sourced, giving you 
 [bdk](https://github.com/bitcoindevkit/bdk-cli) - Bitcoin Script Tooling
 
 [postfix](http://www.postfix.org/) - SMTP Mail Protocol Server
+
+[ossec](https://github.com/ossec/ossec) - System Monitoring
 
 [nginx](https://github.com/nginx/nginx) - HTTP Web Protocol Server
 

@@ -6,11 +6,14 @@ draft: false
 
 # Stackmate India
 
-A bitcoin-only channel for India to tune into the signal amidst the noise. 
+The Indian channel of Stackmate Network. 
 
 ## Products & Services
 
-Our core product is a mobile wallet application providing `self-custody & shared-custody bitcoin storage; with a simplified account management interface and premium support`. 
+> Coming soon ...
+
+Our core product is a bitcoin wallet which supports a range of bitcoin scripts, offering <b>regular self-custody & a variety of shared-custody bitcoin storage scripts which allow you to protect your bitcoin with additional layers, involving trusted parties of your choice.</b> You are always in control of your private keys, and our servers only use your public key to simplify account management.
+
 
 > Features:
 
@@ -20,17 +23,19 @@ Our core product is a mobile wallet application providing `self-custody & shared
 - Custom news feed that will help you surf through the FUD
 - Customized support
 - Hardware distribution
+- No personally identifiable information required
 
-Additionally, we are exploring partnerships with local exchanges to provide a simplified INR on-ramp and the option to setup recurring daily/weekly/monthly BUY's for `automatic sat stacking`.
+<b>We are also working with local exchanges to provide daily/weekly/monthly BUY's for automatic sat stacking. The proven best long term strategy to enter into Bitcoin and protect yourself from volatility.</b>
 
-<style>
+
+<!-- <style>
 .android-badge{
     width: 420px !important;
     height: 150px !important;
 }
 
 </style>
-<img src="/images/google-play-badge.png" alt="PlayStore" class="android-badge"/>
+<img src="/images/google-play-badge.png" alt="PlayStore" class="android-badge"/> -->
 
 <style>
 .bitcoin-badge{

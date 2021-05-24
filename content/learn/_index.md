@@ -9,13 +9,13 @@ pre: '<i class="fas fa-graduation-cap"></i> '
 
 ### A tool for social evolution
 
-We often find ourselves projecting hatred towards money. Poverty is often seen as a side-effect of it. However, it is not money, rather FIAT money, that has created this reputation. `Fiat is a fundamentally rigged system.` This means, the incentives of those who take part in this system are rooted from biased first principles. 
+We often find ourselves projecting hatred towards money. Poverty is often seen as a side-effect of it. However, it is not money, rather FIAT money, that has created this reputation. <b>Fiat is a fundamentally rigged system.</b> This means, the incentives of those who take part in this system are rooted from biased first principles. 
 
-`A bitcoin standard fundamentally changes economic incentives.` The debt based fiat economy is the cause of half the worlds problems today, where a few advance at the expense of the many. It is not the fault of any one single individual, rather from our collective acceptance of such a system that corrupts the incentives of man. 
+<b>A bitcoin standard fundamentally changes economic incentives.</b> The debt based fiat economy is the cause of half the worlds problems today, where a few advance at the expense of the many. It is not the fault of any one single individual, rather from our collective acceptance of such a system that corrupts the incentives of man. 
 
-For civilization to advance, we must seek the truth, and Bitcoin has provided us with the tools and memes to begin doing so. 
+For civilization to advance, we must seek the truth, and Bitcoin has provided us with the tools to begin doing so and building a freedom preserving digital infrastructure. 
 
-Bitcoin is the only instance of a `decentralized & immutable` ledger of economic activity. The digital equivalent of `carving facts into stones`.
+Bitcoin is the only instance of a <b>decentralized & immutable</b> ledger of economic activity. The digital equivalent of </b>carving facts into stones</b>.
 
 
 ### A global decentralized payment network
@@ -30,7 +30,7 @@ Bitcoin peers are spread across the globe and hold common values for what consti
 
 > We define an electronic coin, as a chain of digital signatures. - Nakamoto (2008)
 
-All the way down, on the technical level. Bitcoin is a ledger of payment conditions (locks, represented by addresses). The state of this ledger can be altered by providing a valid digital signature to unlock coin and lock it to a public key of a new owner (their bitcoin address). This way, an electronic coin is represented as a constant passing on of the ability to sign on a global ledger, where your private key (a very large prime number), is essentially a special pen that can unlock a certain set of locks aka bitcoin addresses.
+Bitcoin peers maintain a ledger of payment history - tracking movement of coins from one lock (address) to another. The state of this ledger can be altered by providing a valid digital signature to unlock coin and subsequently lock it to an address of a new owner. This way, an electronic coin at any one point in time, is represented by a chain of signatures that led to its current owner; passing on of the ability to sign on a global ledger, where your private key (a very large prime number), is essentially a <b>special cryptographic pen</b> that can unlock coins locked in your bitcoin address.
 
 ### A new monetary base
 
@@ -58,10 +58,12 @@ Daily transactions will take place on Layer 2 or sidechains.
 
 The ledger on the base layer only allows 1MB of data to be entered every 10 minutes.
 
-A single transaction is roughly 200B on average. 
+A single transaction is roughly 200B(ytes) on average. 
 
 Now, this transaction could either be one of two cases:
+
 1. Private Key Lock - Requires an individual to sign in order to move coins
+
 2. Script Lock - Requires a more complex condition to be satisfied to move coins
 
 Most of us are familiar with the first case, which is a regular case of Alice paying Bob.
@@ -72,13 +74,16 @@ This is where we mpve into layer 2, where spending conditions involving multiple
 This is how bitcoin scales.
 
 Where 200B can represent a 1-to-1 payment, servicing only two individuals in a Private Key Lock,
-the same 200B can represent a multi-party payment channel, servicing any number of individuals to transact at lightning speed and with as much frequency as they so chose in - on a side-chain that is secured by a Script Lock bitcoin transaction on the main chian. 
+the same 200B can represent a multi-party payment channel; servicing any number of individuals to transact at lightning speed and with as much frequency as they so chose, within a time period - on a side-chain netowrk that leverages gurantees provided by a Script Lock on the base layer. 
 
-Alice and Bob can transact at almost no fees, almost instantaneouly on a side-chain where all their micro transactions then finally get summed and settle on the main chain into a 200B tx that encapsulated long periods of off-chain activity; with the added side effect of privacy over micro transactions.
+Alice and Bob can open a channel and transact at almost no fees, almost instantaneouly on a side-chain where all their micro transactions then finally get summed and settle on the main chain into a 200B tx that encapsulated long periods of off-chain activity; with the added side effect of privacy over micro transactions.
+
+Besides, we don't need to lose trust entirely in our peers. The majority of parties we transact with on a daily basis, we have quite a high degree of trust. In such cases, settlement on the base network is not required per transaction.
 
 Examples of this include:
 - Lightning Network
-- WBTC on Ethereum/Cardano etc.
+- Liquid Network
+- WBTC on Ethereum?
 
 The bitcoin base layer must always support decentralization, which means keeping the size of blocks small so that new peers can join the network and easily run a full node and maintain a copy of the entire ledger.
 

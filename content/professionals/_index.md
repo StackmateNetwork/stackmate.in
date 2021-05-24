@@ -25,26 +25,6 @@ pre: '<i class="fas fa-check"></i> '
 
 ##### Commmunity
 
-> FrancisPouliout
- 
-> jlopp
-
-> aantonop
-
-> notmandatory
-
-> afilini 
-
-> kexkey & escapekey
-
-> sfrdev
-
-> sipa
-
-> achow101
-
-> apoelstra
-
 > eaten
 
 > mrmeadow
@@ -53,4 +33,27 @@ pre: '<i class="fas fa-check"></i> '
 
 > bogha
 
+> sanair
+
 > ninjav
+
+> francispouliout_
+ 
+> sipa
+
+> achow101
+
+> apoelstra
+
+> notmandatory
+
+> afilini 
+
+> kexkey & escapekey
+
+> jlopp
+
+> aantonop
+
+> sfrdev
+

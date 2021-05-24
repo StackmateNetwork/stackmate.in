@@ -13,18 +13,34 @@ pre: '<i class="fas fa-lock"></i> '
 
 Bitcoin storage can be broadly classified into three, ranked based on expected features:
 
-> Rank #1 is best
+<table style="width:100%">
+  <tr>
+    <th>Feature</th>
+    <th>Custodian</th>
+    <th>Self-Custody</th>
+    <th>Shared-Custody</th>
 
-<div class="support-table">
+  </tr>
+  <tr>
+   <td>Ease-of-Use</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3*</td>
+  </tr>
+    <tr>
+   <td>Privacy</td>
+    <td>3</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+    <tr>
+   <td>Security</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+</table>
 
-| Features | Custodian | Self-Custody | Shared-Custody |
-| -------- | --------------- | --------------- | ------------ |
-|Definition| Coins held by a bank on your behalf.| Coins held by you alone.| Coins held by you AND your partner(s), based on pre-defined conditions. | 
-| Ease-of-use | 1 | 2 | 3* |
-| Privacy | 3 | 1 | 2 |
-| Security | 3 | 2 | 1 |
-
-</div>
 
 Most of us are familiar with the first two models. 
 
@@ -32,18 +48,18 @@ All exchange wallets provide custodian wallets.
 
 Green, Samourai, Wasabi etc., are examples of self-custody wallets; where you are the sole bearer of the keys.
 
-Both custodian and self-custodian models present the problem of being `single points of failure`.
+Both custodian and self-custodian models present the problem of being <b>single points of failure</b>.
 
 Either your exchange OR you, could get compromised.
 
 # Shared-Custody
 
 ```text
-Our mobile wallet, at its core, seeks to to provide greater Ease-of-Use for shared-custody wallets.
+*Our mobile wallet, at its core, seeks to to provide greater Ease-of-Use for shared-custody wallets.
 ```
 With shared custody, coins are locked by MORE THAN ONE KEY.
 
-This means - `a single compromised key does not result in loss of funds` 
+This means - <b>a single compromised key does not result in loss of funds</b> 
 
 We allow you to appoint ANY other Bitcoin holder to take part in a scripted Bitcoin contract, and create additional layers of protection around your Bitcoin.
 
@@ -76,10 +92,9 @@ This means there are n/m possibilities of multi-sig. So we made it simple.
 ```
 We offer three types of multi-signature configurations as paid services:
 ```
-`*The cost of paid services half every successive year of subscription.*`
 
 ##  Jetski
-### 2/3 Multi-Sig w/server
+### [2]/3 Multi-Sig w/server
 #### Built for individuals
 > Est. August 18, 2021
 
@@ -96,14 +111,17 @@ If you lose your mobile and/or its associated seed, you can still recover it wit
 *Cheaper than a Netflix subscription*
 
 ## Yacht
-### [3-4]/5 Multi-Sig (server optional)
+### [2-4]/5 Multi-Sig (server optional)
 #### Built for households and small businesses
 
 > Est. September 18, 2021
 
 The same setup as above with:
+
 - 5 key threshold
+
 - extended support over Jitsi
+
 - 1 hardware wallet of choice between [Trezor](https://trezor.io) (Beginner) OR [ColdCard](https://coldcardwallet.com) (Advanced)
 
 `Cost: 3 million sats/year`
@@ -115,9 +133,13 @@ The same setup as above with:
 > Est. September 18, 2021
 
 The same setup as above with:
+
 - 9 key threshold
+
 - custom scripts and specialized bitcoin infrastructure
+
 - premium support over Signal w/a dedicated account manager.
+
 - 3 hardware wallets of choice between [Trezor](https://trezor.io) (Beginner) OR [ColdCard](https://coldcardwallet.com) (Advanced)
 
 
@@ -142,14 +164,16 @@ In this setup, you set a time in the future as a failsafe timelock. Appoint anot
 
 Use cases of this include 
 
-`appoint your own trusted custodian to act as a backup service to be able to unlock your coin after a timelock, in the event that you lose your keys.` 
+- <b>appoint your own trusted custodian</b> to act as a backup service to be able to unlock your coin after a timelock, in the event that you lose your keys.` 
 
-`create a will or inheritence plan, where rather than sharing copies of your seed(subject to the angry rogue son problem), you create a more sovereign contract for your wealth to be securely handed down.`
+- <b>create a will or inheritence plan</b>, where rather than sharing copies of your seed(subject to the angry rogue son problem), you create a more sovereign contract for your wealth to be securely handed down.`
 
 ```
 Cost: : FREE
 ```
 
 ### Subscription Terms
+
+<b>*The cost of all paid services half every successive year of subscription.*</b>
 
 Your subscription is primarily for support and the monitoring features on our mobile wallet. Your funds are not LOCKED; if you are overdue on fees or otherwise. You will just be restricted from paid support channels and mobile monitoring. Ultimately, you are in control of your coin, and you only pay us for support and convenience.
