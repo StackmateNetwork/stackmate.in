@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3sats on Stackmate India</title>
+    <link>https://stackmate.in/blog/tags/3sats/</link>
+    <description>Recent content in 3sats on Stackmate India</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stackmate.in/blog/tags/3sats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roots</title>
+      <link>https://stackmate.in/blog/2021/01/roots/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stackmate.in/blog/2021/01/roots/</guid>
+      <description>Origins A bitcoin hodler, a bitcoin miner and a bitcoin developer met. Vision A sound monetary base. Process Work with the larger bitcoin-core community to develop bitcoin infrastructure and build relavant products that improve UX while preserving bitcoin-core fundamentals. </description>
+    </item>
+    
+  </channel>
+</rss>
