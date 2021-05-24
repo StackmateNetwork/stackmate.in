@@ -1,7 +1,7 @@
-#examples-table {
+#exchanges-examples-table {
 }
 
-#examples-table code, #examples-table td:not(:first-child) {
+#exchanges-examples-table code, #exchanges-examples-table td:not(:first-child) {
     overflow-x: auto;
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
@@ -11,15 +11,15 @@
     overflow-wrap: anywhere;
 }
 
-#examples-table > table > thead > tr > th:nth-child(2) {
+#exchanges-examples-table > table > thead > tr > th:nth-child(2) {
     width: 45%;
 }
 
-#examples-table > table > thead > tr > th:nth-child(2) {
+#exchanges-examples-table > table > thead > tr > th:nth-child(2) {
     width: 45%;
 }
 
-.support-table > table > thead > tr > th:nth-child(1) {
+.exchanges-support-table > table > thead > tr > th:nth-child(1) {
     width: 25%;
 }
 

@@ -12,7 +12,7 @@ We have filtered the top exchanges to BUY Bitcoin in India and ranked them based
 
 > Rank #1 is best
 
-<div class="support-table">
+<div class="exchanges-support-table">
 
 | Feature | [WazirX](https://wazirx.com/invite/qp48jjwc) | [ThroughBit.OTC](https://otc.throughbit.com)  | [CoinSwitch.OTC](https://coinswitch.com) | [Binance](https://www.binance.com/en-IN) | [LocalBitcoins](https://localbitcoins.com/instant-bitcoins/?action=buy&amount=&currency=INR&country_code=IN&online_provider=ALL_ONLINE&find-offers=Search) | [Unocoin.OTC](https://unocoin.com)
 | -------- | --------------- | --------------- | ------------ | ------------ | ------------ | ------------ |
