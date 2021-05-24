@@ -12,10 +12,10 @@ pre: '<i class="fas fa-lock"></i> '
 > You either protect your money via crypto keys and proof-of-work, or, you protect it with physical vaults and lethal weapons. There is no third option. - Lombrozo (2021)
 
 Bitcoin storage can be broadly classified into three, ranked based on expected features:
+> Rank #1 is best
 
 <div class="support-table">
 
-> Rank #1 is best
 
 | Features | Custodian | Self-Custody | Shared-Custody |
 | -------- | --------------- | --------------- | ------------ |
