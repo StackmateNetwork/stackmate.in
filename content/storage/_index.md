@@ -7,7 +7,9 @@ pre: '<i class="fas fa-lock"></i> '
 ---
 
 
-### Bitcoin Storage Models
+### Not your keys, not your coin.
+
+> You either protect your money via crypto keys and proof-of-work, or, you protect it with physical vaults and lethal weapons. There is no third option. - Lombrozo (2021)
 
 Bitcoin storage can be broadly classified into three, ranked based on expected features:
 
@@ -17,7 +19,7 @@ Bitcoin storage can be broadly classified into three, ranked based on expected f
 
 | Features | Custodian | Self-Custody | Shared-Custody |
 | -------- | --------------- | --------------- | ------------ |
-|Definition| Coins held by your partner on your behalf.| Coins held by you alone.| Coins held by you AND a your partner(s), based on pre-defined conditions. | 
+|Definition| Coins held by a bank on your behalf.| Coins held by you alone.| Coins held by you AND your partner(s), based on pre-defined conditions. | 
 | Ease-of-use | 1 | 2 | 3* |
 | Privacy | 3 | 1 | 2 |
 | Security | 3 | 2 | 1 |
@@ -88,7 +90,9 @@ If you lose your mobile and/or its associated seed, you can still recover it wit
 
 > Multi-sig that feels like a single sig. With taproot support in progress, this will soon even look like single sig.
 
-`Cost: 420,000 sats/year`
+`Cost: 190,000 sats/year`
+
+*Cheaper than a Netflix subscription*
 
 ## Yacht
 ### [3-4]/5 Multi-Sig (server optional)
@@ -144,3 +148,7 @@ Use cases of this include
 ```
 Cost: : FREE
 ```
+
+### Subscription Terms
+
+Your subscription is primarily for support and the monitoring features on our mobile wallet. Your funds are not LOCKED; if you are overdue on fees or otherwise. You will just be restricted from paid support channels and mobile monitoring. Ultimately, you are in control of your coin, and you only pay us for support and convenience.

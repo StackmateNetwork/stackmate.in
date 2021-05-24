@@ -6,11 +6,11 @@ draft: false
 
 # Stackmate India
 
-Our mission is to simplify the process of recognizing, buying & storing Bitcoin; as a human right and wealth preserving asset.
+A bitcoin-only channel for India to tune into the signal amidst the noise. 
 
 ## Products & Services
 
-Our core product is a mobile wallet application providing `self-custody & shared-custody bitcoin storage options; with a simplified account management interface and premium support`. 
+Our core product is a mobile wallet application providing `self-custody & shared-custody bitcoin storage; with a simplified account management interface and premium support`. 
 
 > Features:
 
@@ -21,11 +21,22 @@ Our core product is a mobile wallet application providing `self-custody & shared
 - Customized support
 - Hardware distribution
 
-Additionally, we are exploring partnerships with local exchanges to provide a simplified INR on-ramp and the option to setup recurring hourly/daily/weekly BUY's for `automatic sat stacking`.
+Additionally, we are exploring partnerships with local exchanges to provide a simplified INR on-ramp and the option to setup recurring daily/weekly/monthly BUY's for `automatic sat stacking`.
 
+<style>
+.android-badge{
+    width: 420px !important;
+    height: 150px !important;
+}
 
-<img src="/images/google-play-badge.png" alt="PlayStore" style="width:100; height:25"/>
+</style>
+<img src="/images/google-play-badge.png" alt="PlayStore" class="android-badge"/>
 
-<img src="/images/apple-ios-badge.svg" alt="AppStore"/>
+<style>
+.bitcoin-badge{
+    width: 120px !important;
+    height: 150px !important;
+}
+</style>
 
-<img src="/images/bitcoin.png" alt="Bitcoin" style="width:2%; height:2%;"/>
+<img src="/images/bitcoin.png" alt="Bitcoin" class="bitcoin-badge"/>

@@ -83,3 +83,6 @@ Examples of this include:
 The bitcoin base layer must always support decentralization, which means keeping the size of blocks small so that new peers can join the network and easily run a full node and maintain a copy of the entire ledger.
 
 This protects the network for coordinated attacks and ensures much higher availability and reliability than any centralized or weakly decentralized system.
+
+
+<img src="/images/bitcoin.png" alt="Bitcoin" style="width:50px;height:50px;"/>
