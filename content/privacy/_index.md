@@ -7,23 +7,23 @@ pre: '<i class="fas fa-user-lock"></i> '
 ---
 
 
-### Stackmate Privacy Model (simplified)
+### Stackmate Privacy Model
 
+> We are our first clients, and we hold Privacy with high regard.
 
-- We are our first clients, and we hold Privacy with high regard.
+- To create an account with us you only require a valid email address, which can be anonymous. This is only required authentication and updates. 
 
-- We do not collect or store personally identifiable information on users, unless provided so by the user, in exchange for an extended service. In such cases, personal data on a user is encrypted at rest with a password set by the user - preventing even us from accessing it without the user decrypting it. If a user finds this causing an inconvenience, they are easily able to opt-out.
+- We do not require any personally identifiable information.
+
+- Where personally identifiable information is shared, in exchange for an extended service; it is handled in compliance with International Privacy laws like GDPR.
+
+- You always have the ability to delete your account, and completely purge all traces of your profile (from backups too!). This will remove all associations of your profile with public bitcoin transaction data.
+
+- With respect to bitcoin, by sharing your public key with our server and associating it with your profile - email and source IP per request - you are fingerprinting bitcoin transactions with your profile. You can work around this by using a private email and running our client behind Tor. If youre starting to get paranoid, request to delete your account and breathe.
+
+- We DO NOT perform analytics on personally identifiable data.
 
 - We currently DO NOT SHARE any user information with any third party.
 
 - We WILL NOT SHARE a user's peronally identifiable information with any third party without the consent of the user. Where an extended service requires sharing information with a third-party that does not offer the same degrees of privacy, we will clearly present the risks to you, prior to requesting your consent.
-
-- We DO NOT perform analytics on personally identifiable data.
-
-- We currently perform zero analytics. If this is to change, it would only be with regard to transactional data.
-
-- Users have the ability to delete their accounts, and completely purge all traces of personally identifiable information (from backups too!) that can associate user identity with our transaction data. 
-
-- With respect to bitcoin, by sharing your xpub with our server and associating it with an email and source IP, you are fingerprinting all related transaction data. You can work around this by using a private email and running our client behind Tor.
-
 

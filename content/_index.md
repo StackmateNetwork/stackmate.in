@@ -25,7 +25,7 @@ Our core product is a bitcoin wallet which supports a range of bitcoin scripts, 
 - Hardware distribution
 - No personally identifiable information required
 
-We are also working with local exchanges to provide daily/weekly/monthly BUY's for <b>automatic sat stacking.</b> [Dollar Cost Averaging](https://dcabtc.com) is the proven BEST long term strategy to enter into Bitcoin and protect yourself from volatility.
+We are also working with local exchanges to provide daily/weekly/monthly BUY's for <b>automatic sat stacking.</b> [Dollar Cost Averaging](https://dcabtc.com) is the proven BEST long term strategy to enter the Bitcoin network and protect yourself from volatility.
 
 
 <!-- <style>
