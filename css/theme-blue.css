@@ -10,14 +10,14 @@
     --MENU-HOME-LINK-color: #323232; /* Color of the home button text */
     --MENU-HOME-LINK-HOVER-color: #5e5e5e; /* Color of the hovered home button text */
 
-    --MENU-HEADER-BG-color:#070707; /* Background color of menu header  0745FF*/
-    --MENU-HEADER-BORDER-color:#0745FF; /*Color of menu header border FF9500*/
+    --MENU-HEADER-BG-color:#1C90F3; /* Background color of menu header */
+    --MENU-HEADER-BORDER-color:#33a1ff; /*Color of menu header border */
 
-    --MENU-SEARCH-BG-color:#323232; /* Search field background color (by default borders + icons) */
+    --MENU-SEARCH-BG-color:#167ad0; /* Search field background color (by default borders + icons) */
     --MENU-SEARCH-BOX-color: #33a1ff; /* Override search field border color */
     --MENU-SEARCH-BOX-ICONS-color: #a1d2fd; /* Override search field icons color */
 
-    --MENU-SECTIONS-ACTIVE-BG-color:#0745FF; /* Background color of the active section and its childs */
+    --MENU-SECTIONS-ACTIVE-BG-color:#20272b; /* Background color of the active section and its childs */
     --MENU-SECTIONS-BG-color:#252c31; /* Background color of other sections */
     --MENU-SECTIONS-LINK-color: #ccc; /* Color of links in menu */
     --MENU-SECTIONS-LINK-HOVER-color: #e6e6e6;  /* Color of links in menu, when hovered */
