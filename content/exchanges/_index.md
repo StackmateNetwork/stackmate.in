@@ -10,7 +10,7 @@ pre: '<i class="fas fa-coins"></i> '
 
 We have filtered the top exchanges to BUY Bitcoin in India and ranked them based on features desired from an ideal exchange.  
 
-<div class="table">
+<div class="support-table">
 
 > Rank #1 is best
 

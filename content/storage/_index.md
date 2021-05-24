@@ -13,7 +13,7 @@ pre: '<i class="fas fa-lock"></i> '
 
 Bitcoin storage can be broadly classified into three, ranked based on expected features:
 
-<div class="table">
+<div class="support-table">
 
 > Rank #1 is best
 
