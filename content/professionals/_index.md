@@ -15,13 +15,13 @@ pre: '<i class="fas fa-check"></i> '
 
 > kongzi
 
-> ishi/vmenond
+> ishi
 
 > mocodesmo
 
-> qurbat/libsea
+> qurbat
 
-> belavadi
+> prahaladbelavadi
 
 ##### Commmunity
 

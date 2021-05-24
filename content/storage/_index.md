@@ -76,6 +76,7 @@ This means there are n/m possibilities of multi-sig. So we made it simple.
 ```
 We offer three types of multi-signature configurations as paid services:
 ```
+`*The cost of paid services half every successive year of subscription.*`
 
 ##  Jetski
 ### 2/3 Multi-Sig w/server
@@ -90,7 +91,7 @@ If you lose your mobile and/or its associated seed, you can still recover it wit
 
 > Multi-sig that feels like a single sig. With taproot support in progress, this will soon even look like single sig.
 
-`Cost: 190,000 sats/year`
+`Cost: 120,000 sats/year`
 
 *Cheaper than a Netflix subscription*
 

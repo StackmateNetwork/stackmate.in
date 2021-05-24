@@ -20,7 +20,7 @@ Bitcoin is the only instance of a `decentralized & immutable` ledger of economic
 
 ### A global decentralized payment network
 
-> A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. - Satoshi (2009)
+> A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. - Nakamoto (2008)
 
 Bitcoin is a network of individuals (peers) maintaining a financial ledger, by a certain set of rules (consensus); thereby enforcing a protocol around it. We all collectively agree on which software to run - [Bitcoin](https://github.com/bitcoin/bitcoin) and which platforms to conduct technical & social discussions on - currently [Github](https://github.com/bitcoin/bitcoin) & [Twitter](https://twitter.com). 
 
@@ -28,7 +28,7 @@ Bitcoin peers are spread across the globe and hold common values for what consti
 
 ### A chain of digital signatures
 
-> We define an electronic coin, as a chain of digital signatures. - Satoshi (2008)
+> We define an electronic coin, as a chain of digital signatures. - Nakamoto (2008)
 
 All the way down, on the technical level. Bitcoin is a ledger of payment conditions (locks, represented by addresses). The state of this ledger can be altered by providing a valid digital signature to unlock coin and lock it to a public key of a new owner (their bitcoin address). This way, an electronic coin is represented as a constant passing on of the ability to sign on a global ledger, where your private key (a very large prime number), is essentially a special pen that can unlock a certain set of locks aka bitcoin addresses.
 
@@ -85,4 +85,22 @@ The bitcoin base layer must always support decentralization, which means keeping
 This protects the network for coordinated attacks and ensures much higher availability and reliability than any centralized or weakly decentralized system.
 
 
+## MORE
+
+Want to go deeper down the rabbit hole?
+
+Tune in with these repositories of content from the Bitcoin Core network:
+
+### Essential Listening
+
+[Bitcoin Audible](https://bitcoinaudible.com/library/)
+
+### Essential Reading
+
+[Nakamoto Institute](https://nakamotoinstitute.org/literature/)
+
+[Swan Signal](https://www.swanbitcoin.com/signal/)
+
 <img src="/images/bitcoin.png" alt="Bitcoin" style="width:50px;height:50px;"/>
+
+
