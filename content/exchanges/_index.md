@@ -24,6 +24,7 @@ We have filtered the top exchanges to BUY Bitcoin in India and ranked them based
 | Liquidity        | 3 | 5 | 6 | 1 | 2 | 4 |
 | Uptime           | 3 | 6 | 4 | 2 | 1 | 5 |
 | Total            |21 |25 |29 |18 |24 |33 |
+
 </div>
 
 ### OTC: Over the counter
