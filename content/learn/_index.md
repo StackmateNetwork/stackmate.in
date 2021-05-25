@@ -9,7 +9,7 @@ pre: '<i class="fas fa-graduation-cap"></i> '
 
 ### A tool for social evolution
 
-We often find ourselves projecting hatred towards money. Poverty is often seen as a side-effect of it. However, it is not money, rather FIAT money, that has created this reputation. <b>Fiat is a fundamentally rigged system.</b> This means, the incentives of those who take part in this system are rooted from biased first principles. 
+We often find ourselves projecting hatred towards money. Poverty is often seen as a side-effect of it. However, it is not money, rather FIAT money, that has created this reputation. <b>Fiat is a fundamentally rigged system.</b> This means, the incentives of those who take part in this system are rooted in biased first principles. 
 
 <b>A bitcoin standard fundamentally changes economic incentives.</b> The debt based fiat economy is the cause of half the worlds problems today, where a few advance at the expense of the many. It is not the fault of any one single individual, rather from our collective acceptance of such a system that corrupts the incentives of man. 
 

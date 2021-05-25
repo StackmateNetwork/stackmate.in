@@ -12,8 +12,7 @@ The Indian channel of Stackmate Network.
 
 > Coming soon ...
 
-Our core product is a bitcoin wallet which supports a range of bitcoin scripts, offering <b>regular self-custody & a variety of shared-custody bitcoin storage scripts which allow you to protect your bitcoin with additional layers, involving trusted parties of your choice.</b> You are always in control of your private keys, and our servers only use your public key to simplify account management.
-
+Our core product is a bitcoin wallet which supports a range of bitcoin scripts, offering <b>regular self-custody & a variety of shared-custody bitcoin storage options; which allow you to protect your bitcoin with additional layers, involving your friends and family as your trusted partners.</b> You are always in control of your private keys, and our servers only use your public key to simplify account management.
 
 > Features:
 
