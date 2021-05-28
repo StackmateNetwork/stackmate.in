@@ -21,7 +21,7 @@ We provide open source recovery tools and documentation both in our `blog` secti
 
 ### Our favorites
 
-Check out their github and do'nt be afraid to start a conversation and contribute at any level be it <em>branding, content or code</em>.
+Check out their github and don't be afraid to start a conversation and contribute at any level, be it <em>branding, content or code</em>.
 
 [linux](https://github.com/torvalds/linux) - Operating System
 

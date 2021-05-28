@@ -11,7 +11,7 @@ pre: '<i class="fas fa-user-lock"></i> '
 
 > We are our first clients, and we hold Privacy with high regard.
 
-- To create an account with us you only require a valid email address, which can be anonymous. This is only required authentication and updates. 
+- To create an account with us you only require a valid email address, which can be anonymous. This is only required for authentication and updates. 
 
 - We do not require any personally identifiable information.
 
@@ -19,9 +19,9 @@ pre: '<i class="fas fa-user-lock"></i> '
 
 - You always have the ability to delete your account, and completely purge all traces of your profile (from backups too!). This will remove all associations of your profile with public bitcoin transaction data.
 
-- With respect to bitcoin, by sharing your public key with our server and associating it with your profile - email and source IP per request - you are fingerprinting bitcoin transactions with your profile. You can work around this by using a private email and running our client behind Tor. If youre starting to get paranoid, request to delete your account and breathe.
+- With respect to bitcoin, by sharing your public key with our server and associating it with your profile - email and source IP per request - you are fingerprinting bitcoin transactions with your profile. You can work around this by using a private email and running our client behind Tor. If you begin to get paranoid, you may delete your account and breathe.
 
-- We DO NOT perform analytics on personally identifiable data.
+- We DO NOT derive analytics from personally identifiable data.
 
 - We currently DO NOT SHARE any user information with any third party.
 

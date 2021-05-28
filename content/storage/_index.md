@@ -174,6 +174,6 @@ Cost: : FREE
 
 ### Subscription Terms
 
-<b>*The cost of all paid services half every successive year of subscription.*</b>
+<b>*The cost of all paid services halve every successive year of subscription.*</b>
 
-Your subscription is primarily for support and the monitoring features on our mobile wallet. Your funds are not LOCKED; if you are overdue on fees or otherwise. You will just be restricted from paid support channels and mobile monitoring. Ultimately, you are in control of your coin, and you only pay us for support and convenience.
+Your subscription is primarily for support and the monitoring features on our mobile wallet. Your funds are not LOCKED. If you are overdue on fees or otherwise, you will just be restricted from paid support channels and mobile monitoring. Ultimately, you are in control of your bitcoin. You only pay us for support and convenience.
