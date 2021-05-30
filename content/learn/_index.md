@@ -31,27 +31,31 @@ A peer running a version of [Bitcoin](https://github.com/bitcoin/bitcoin), maint
 
 Changes to the software that peers run is a very slow process in bitcoin and this is to protect the monetary policy from arbitrary changes. Not only are changes to the code slow, but also, nodes updating to the new software to fully enforce the new changes takes a while. While this can make Bitcoin seem slow and boring, this is what gives it reliability.
 
-The first property of a sound money is to be a reliable store of value. 
+The first property of a sound money is to be a reliable <b>store of value</b> (SOV). 
 
 By providing a stable and predictable monetary policy, the Bitcoin network achieves this property through its think skinned resistance to change as a monetary network.
 
 - Bitcoin Maximum Supply - <b>~21 Million BTC</b> (FOREVER)
 
-Only after a money can reliably store value, can it be a reliable base on which business infrastructure can be built. This is when a money begins to strengthen its second property of being a medium of exchange. To facilitate an almost infinite throughput of transactions, Bitcoin delegates this to "Layer 2". 
+Only after a money can reliably store value, does it begin its journey towards its achieving its second property of being a <b>medium of exchange</b> (MOX). To facilitate an almost infinite throughput of transactions, Bitcoin delegates this to "Layer 2". 
 
-Layer 2 is a sub network maintained by peers on the Main Network. Layer 2 operates with less security guarentees but infiniately scalable transaction throughput. 
+Layer 2 is a sub network maintained by Bitcoin nodes, that operate by a different set of more flexible rules. 
+
+Layer 2 operates with less security guarentees but infiniately scalable transaction throughput. 
+
+The native Layer 2 solution is <em>Lightning Network</em>. WBTC on Ethereum is also Layer 2 solution.
 
 ### A chain of digital signatures
 
 > We define an electronic coin, as a chain of digital signatures. - Nakamoto (2008)
 
-Bitcoin nodes maintain a shahred ledger aka a chain - tracking movement of coins from one individual's lock (address) to another's. Each block in the chain can be thought of as a page on a ledger. The state of this chain can be altered by providing a valid digital signature to unlock coin and subsequently lock it to an address of a new owner. This way, an electronic coin at any one point in time, is represented by a chain of signatures that led to its current owner. We pass on of the ability to sign a new page on a global ledger, where our private key (a very large prime number), is in essence, a <b>cryptographic pen</b>.
+Bitcoin nodes maintain a shared ledger aka a chain - tracking movement of coins from one individual's lock (address) to another's. Each block in the chain can be thought of as a page on a ledger. The state of this chain can be altered by providing a valid digital signature to unlock coin and subsequently lock it to an address of a new owner. This way, an electronic coin at any one point in time, is represented by a chain of signatures that led to its current owner. We pass on of the ability to sign a new page on a global ledger, where our private key (a very large prime number), is in essence, a <b>cryptographic pen</b>.
 
 ### A new monetary base
 
 > Precious metals and collectibles have an unforgeable scarcity due to the costliness of their creation. This once provided money the value of which was largely independent of any trusted third party. Precious metals have problems, however. It's too costly to assay metals repeatedly for common transactions. Thus a trusted third party (usually associated with a tax collector who accepted the coins as payment) was invoked to stamp a standard amount of the metal into a coin. - Szabo (2005)
 
-The final stage of a money, after proving itself as a medium of exchange, is unit of account. When we begin to think in this money. 
+The final stage of a money, after proving itself as a medium of exchange, is <b>unit of account</b> (UOA). When we begin to think in this money. 
 
 Civilizations have always converged to a single unit of account, a monetary base unit in which to price all goods and services produced. In the past, this unit was gold. Gold found its value in its scarcity as a natural resource and expensive cost of production. Today, the US Dollar has taken the position of unit of account and finds its value purely in promisary notes and debt. 
 
