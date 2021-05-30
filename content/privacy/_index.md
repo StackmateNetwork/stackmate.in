@@ -8,8 +8,8 @@ pre: '<i class="fas fa-user-lock"></i> '
 
 
 
-- Your profile (personally identifiable data) is made up of an email address and request source IPs.
+- Your profile (personally identifiable data) is made up of an email address and request source IP addresses.
 
-- With respect to bitcoin, our current mode of operation requires your public key. This creates an association between your xpub and your profile - therefore fingerprinting related bitcoin transactions.
+- With respect to bitcoin, our current mode of operation requires your public key. This creates an association between your public key and profile - therefore fingerprinting related bitcoin transactions.
 
-- You have the ability to delete your profile, and completely purge your profile data from backups as well. 
+- You have the ability to delete your profile.
