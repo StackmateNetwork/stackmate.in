@@ -2,7 +2,7 @@
 title: "Professionals"
 date: 2020-04-28T14:40:12+02:00
 draft: false
-weight: 7
+weight: 8
 pre: '<i class="fas fa-check"></i> '
 ---
 

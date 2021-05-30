@@ -87,11 +87,10 @@ The most common form of a shared-custody contract is a `multi-signature`.
 
 Multi-signature is a spending condition where more than one key has to sign a transaction to move the coin locked in these addresses.
 
-This means there are n/m possibilities of multi-sig. So we made it simple. 
+It follows a format of [threshold]/total_participants; where threshold is the number of signatures required.
 
-```
-We offer three types of multi-signature configurations as paid services:
-```
+This allows n/m possibilities. So we created a few fixed policies that cover a range of useful situations. 
+
 
 ##  Jetski
 ### [2]/3 Multi-Sig w/server
@@ -106,9 +105,7 @@ If you lose your mobile and/or its associated seed, you can still recover it wit
 
 > Multi-sig that feels like a single sig. With taproot support in progress, this will soon even look like single sig.
 
-`Cost: 120,000 sats/year`
-
-*Cheaper than a Netflix subscription*
+If you dont' trust us as a signatory, chose your own partner by requesting a bitcoiner for their public key and adding them to your policy.
 
 ## Yacht
 ### [2-4]/5 Multi-Sig (server optional)
@@ -118,13 +115,12 @@ If you lose your mobile and/or its associated seed, you can still recover it wit
 
 The same setup as above with:
 
-- 5 key threshold
+- 5 member party
 
 - extended support over Jitsi
 
 - 1 hardware wallet of choice between [Trezor](https://trezor.io) (Beginner) OR [ColdCard](https://coldcardwallet.com) (Advanced)
 
-`Cost: 3 million sats/year`
 
 ## Submarine
 ### [5-9]/12 Multi-Sig
@@ -134,16 +130,13 @@ The same setup as above with:
 
 The same setup as above with:
 
-- 9 key threshold
+- 12 member party
 
 - custom scripts and specialized bitcoin infrastructure
 
 - premium support over Signal w/a dedicated account manager.
 
 - 3 hardware wallets of choice between [Trezor](https://trezor.io) (Beginner) OR [ColdCard](https://coldcardwallet.com) (Advanced)
-
-
-`Cost: 9 million sats/year`
 
 # Timelocks
 
@@ -167,13 +160,3 @@ Use cases of this include
 - <b>appoint your own trusted custodian</b> to act as a backup service to be able to unlock your coin after a timelock, in the event that you lose your keys.` 
 
 - <b>create a will or inheritence plan</b>, where rather than sharing copies of your seed(subject to the angry rogue son problem), you create a more sovereign contract for your wealth to be securely handed down.`
-
-```
-Cost: : FREE
-```
-
-### Subscription Terms
-
-<b>*The cost of all paid services half every successive year of subscription.*</b>
-
-Your subscription is primarily for support and the monitoring features on our mobile wallet. Your funds are not LOCKED; if you are overdue on fees or otherwise. You will just be restricted from paid support channels and mobile monitoring. Ultimately, you are in control of your coin, and you only pay us for support and convenience.
