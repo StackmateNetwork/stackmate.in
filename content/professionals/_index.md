@@ -37,6 +37,8 @@ pre: '<i class="fas fa-check"></i> '
 
 > ninjav
 
+> rambowreck
+
 > francispouliout_
 
 > guyswan
@@ -45,13 +47,15 @@ pre: '<i class="fas fa-check"></i> '
 
 > achow101
 
-> apoelstra
-
 > notmandatory
 
 > afilini 
 
-> kexkey & escapekey
+> kexkey 
+
+> escapekey
+
+> apoelstra
 
 > jlopp
 

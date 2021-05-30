@@ -9,86 +9,57 @@ pre: '<i class="fas fa-graduation-cap"></i> '
 
 ### A tool for social evolution
 
-We often find ourselves projecting hatred towards money. Poverty is often seen as a side-effect of it. However, it is not money, rather FIAT money, that has created this reputation. <b>Fiat is a fundamentally rigged system.</b> This means, the incentives of those who take part in this system are rooted in biased first principles. 
+We often find ourselves projecting hatred towards money. Poverty is often seen as a side-effect of it. However, it is not money, rather <em>fiat</em> money, that has created this reputation. Since the 1970's the US, and rest of the world, moved off the gold standard to a fiat standard. Fiat is essentially money backed by debt and promises that can be enforced with lethal weapons by a centralized issuing body - aka a government.<b> Fiat is a fundamentally rigged system that relies on trust.</b> 
 
-<b>A bitcoin standard fundamentally changes economic incentives.</b> The debt based fiat economy is the cause of half the worlds problems today, where a few advance at the expense of the many. It is not the fault of any one single individual, rather from our collective acceptance of such a system that corrupts the incentives of man. 
+It is not the fault of any one single individual, rather of a system that continously corrupts the incentives of man. 
 
-For civilization to advance, we must seek the truth, and Bitcoin has provided us with the tools to begin doing so and building a freedom preserving digital infrastructure. 
+<b>A bitcoin standard fundamentally changes economic and social incentives.</b>
 
-Bitcoin is the only instance of a <b>decentralized & immutable</b> ledger of economic activity. The digital equivalent of </b>carving facts into stones</b>.
+<b>When the value you set out to create in this world, is rooted in a sound money, it changes how you approach the world.</b>
 
+For civilization to advance, we must be able to freely collabate towards seeking the truth. Bitcoin has provided, and continues to expose us to the tools and information to begin <b>building a freedom preserving digital infrastructure</b> that will lay the foundation for this pursuit. 
 
-### A global decentralized payment network
+Bitcoin is the only instance of a <b>globally decentralized & immutable</b> ledger of economic activity. The digital equivalent of </b>carving facts into stones</b>.
+
+### A global decentralized network of peers
 
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. - Nakamoto (2008)
 
-Bitcoin is a network of individuals (peers) maintaining a financial ledger, by a certain set of rules (consensus); thereby enforcing a protocol around it. We all collectively agree on which software to run - [Bitcoin](https://github.com/bitcoin/bitcoin) and which platforms to conduct technical & social discussions on - currently [Github](https://github.com/bitcoin/bitcoin) & [Twitter](https://twitter.com). 
+Bitcoin is a network of individuals aka peers, maintaining a financial ledger by a certain set of rules aka a monetary policy. The monetary policy is enforced by peers collectively agreeing on which software to run - [Bitcoin](https://github.com/bitcoin/bitcoin) and which platforms to conduct technical & social discussions on - currently [Github](https://github.com/bitcoin/bitcoin) , [Twitter](https://twitter.com) or messenger pigeons. 
 
-Bitcoin peers are spread across the globe and hold common values for what constitutes a sound monetary base aka money. These values are hard to change, just like the properties of natural elements like gold.  While this can make Bitcoin seem slow and boring, this is what gives it reliability.
+A peer running a version of [Bitcoin](https://github.com/bitcoin/bitcoin), maintaining the entire ledger, and validating transactions as they are broadcasted to the network, are called full-nodes. 
+
+Changes to the software that peers run is a very slow process in bitcoin and this is to protect the monetary policy from arbitrary changes. Not only are changes to the code slow, but also, nodes updating to the new software to fully enforce the new changes takes a while. While this can make Bitcoin seem slow and boring, this is what gives it reliability.
+
+The first property of a sound money is to be a reliable store of value. 
+
+By providing a stable and predictable monetary policy, the Bitcoin network achieves this property through its think skinned resistance to change as a monetary network.
+
+- Bitcoin Maximum Supply - <b>~21 Million BTC</b> (FOREVER)
+
+Only after a money can reliably store value, can it be a reliable base on which business infrastructure can be built. This is when a money begins to strengthen its second property of being a medium of exchange. To facilitate an almost infinite throughput of transactions, Bitcoin delegates this to "Layer 2". 
+
+Layer 2 is a sub network maintained by peers on the Main Network. Layer 2 operates with less security guarentees but infiniately scalable transaction throughput. 
 
 ### A chain of digital signatures
 
 > We define an electronic coin, as a chain of digital signatures. - Nakamoto (2008)
 
-Bitcoin peers maintain a ledger of payment history - tracking movement of coins from one lock (address) to another. The state of this ledger can be altered by providing a valid digital signature to unlock coin and subsequently lock it to an address of a new owner. This way, an electronic coin at any one point in time, is represented by a chain of signatures that led to its current owner; passing on of the ability to sign on a global ledger, where your private key (a very large prime number), is essentially a <b>special cryptographic pen</b> that can unlock coins locked in your bitcoin address.
+Bitcoin nodes maintain a shahred ledger aka a chain - tracking movement of coins from one individual's lock (address) to another's. Each block in the chain can be thought of as a page on a ledger. The state of this chain can be altered by providing a valid digital signature to unlock coin and subsequently lock it to an address of a new owner. This way, an electronic coin at any one point in time, is represented by a chain of signatures that led to its current owner. We pass on of the ability to sign a new page on a global ledger, where our private key (a very large prime number), is in essence, a <b>cryptographic pen</b>.
 
 ### A new monetary base
 
 > Precious metals and collectibles have an unforgeable scarcity due to the costliness of their creation. This once provided money the value of which was largely independent of any trusted third party. Precious metals have problems, however. It's too costly to assay metals repeatedly for common transactions. Thus a trusted third party (usually associated with a tax collector who accepted the coins as payment) was invoked to stamp a standard amount of the metal into a coin. - Szabo (2005)
 
+The final stage of a money, after proving itself as a medium of exchange, is unit of account. When we begin to think in this money. 
+
 Civilizations have always converged to a single unit of account, a monetary base unit in which to price all goods and services produced. In the past, this unit was gold. Gold found its value in its scarcity as a natural resource and expensive cost of production. Today, the US Dollar has taken the position of unit of account and finds its value purely in promisary notes and debt. 
 
-*USD settlements take 3+ days on the base layer - fedwire.*
-
-A visa transaction being confirmed within seconds, does not represent final settlement.
+*USD settlements take 3+ days on the base layer called FedWire.*
 
 Bitcoin achieves finality within 10 minutes.
 
-On top of this settlement layer, new layers can emerge, which will make various tradeoffs to cater to the specific needs of an individual.
-
-The base layer, is a purely backend matter.
-
-Owning BTC, is taking part in consensus of a new global monetary standard.
-
-#### Layer 2
-
-Most of us do not know, or care about (by virtue of trust in) the mechanics of the USD base layer - `fedwire`, which impacts the backend valuation of all our local currency transactions. In much the same way, in a Bitcoin standard, daily transactions will not require settlement or interaction on the base layer from the user's end. 
-
-Daily transactions will take place on Layer 2 or sidechains.
-
-The ledger on the base layer only allows 1MB of data to be entered every 10 minutes.
-
-A single transaction is roughly 200B(ytes) on average. 
-
-Now, this transaction could either be one of two cases:
-
-1. Private Key Lock - Requires an individual to sign in order to move coins
-
-2. Script Lock - Requires a more complex condition to be satisfied to move coins
-
-Most of us are familiar with the first case, which is a regular case of Alice paying Bob.
-It takes 10 minutes, and that is too slow for daily transctions, especially if Alice and Bob regularly transact.
-
-This is where we mpve into layer 2, where spending conditions involving multiple parties can be created which can provide enough guarentees to all parties to conduct activity on a side-chain or another protocol that can make sense of this Script Lock. 
-
-This is how bitcoin scales.
-
-Where 200B can represent a 1-to-1 payment, servicing only two individuals in a Private Key Lock,
-the same 200B can represent a multi-party payment channel; servicing any number of individuals to transact at lightning speed and with as much frequency as they so chose, within a time period - on a side-chain netowrk that leverages gurantees provided by a Script Lock on the base layer. 
-
-Alice and Bob can open a channel and transact at almost no fees, almost instantaneouly on a side-chain where all their micro transactions then finally get summed and settle on the main chain into a 200B tx that encapsulated long periods of off-chain activity; with the added side effect of privacy over micro transactions.
-
-Besides, we don't need to lose trust entirely in our peers. The majority of parties we transact with on a daily basis, we have quite a high degree of trust. In such cases, settlement on the base network is not required per transaction.
-
-Examples of this include:
-- Lightning Network
-- Liquid Network
-- WBTC on Ethereum?
-
-The bitcoin base layer must always support decentralization, which means keeping the size of blocks small so that new peers can join the network and easily run a full node and maintain a copy of the entire ledger.
-
-This protects the network for coordinated attacks and ensures much higher availability and reliability than any centralized or weakly decentralized system.
-
+Fedwire is also a network, with around 9000 participants (Paypal, Stripe etc.), soon to be surpassed by Bitcoin, with its currently roughly 9000 nodes, and a much lower barrier to entry.
 
 ## MORE
 
