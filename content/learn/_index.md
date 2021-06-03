@@ -71,7 +71,7 @@ Bitcoin will serve a similar purpose where [nodes](https://bitnodes.io) will ser
 
 Want to go deeper down the rabbit hole?
 
-Tune in with these repositories of content from the Bitcoin Core network:
+Tune in with these repositories of content from the Bitcoin network:
 
 ### Essential Listening
 

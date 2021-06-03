@@ -9,7 +9,7 @@ pre: '<i class="fas fa-check"></i> '
 
 ### Made this possible
 
-##### Core
+##### Core Team
 
 > shooshmaster
 
@@ -23,43 +23,10 @@ pre: '<i class="fas fa-check"></i> '
 
 > prahaladbelavadi
 
-##### Commmunity
+##### Community
 
-> eaten
+There are too many legends to name here.
 
-> mrmeadow
+You know who you are.
 
-> ibiri
-
-> bogha
-
-> sanair
-
-> ninjav
-
-> rambowreck
-
-> francispouliout_
-
-> guyswan
- 
-> sipa
-
-> achow101
-
-> notmandatory
-
-> afilini 
-
-> kexkey 
-
-> escapekey
-
-> apoelstra
-
-> jlopp
-
-> aantonop
-
-> sfrdev
-
+It's been an honor.
