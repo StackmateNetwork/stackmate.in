@@ -29,4 +29,4 @@ There are too many legends to name here.
 
 You know who you are.
 
-It's been an honor.
+Vires in numeris.
