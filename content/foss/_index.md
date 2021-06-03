@@ -21,25 +21,17 @@ We provide open source recovery tools and documentation both in our `blog` secti
 
 ### Our favorites
 
-Check out their github and do'nt be afraid to start a conversation and contribute at any level be it <em>branding, content or code</em>.
+Check out their github and do'nt be afraid to start a conversation and contribute at any level be it <em>usage feedback, marketing, content or code</em>.
 
 [linux](https://github.com/torvalds/linux) - Operating System
 
-[pier](https://github.com/pier-cli/pier) - Script Management Tool
-
-[vagrant](https://github.com/hashicorp/vagrant) - Development Environment Simulator
+[pier](https://github.com/pier-cli/pier) - Shell Script Manager
 
 [bitcoin](https://github.com/bitcoin/bitcoin) - BTC Money Protocol Server
 
-[cyphernode](https://github.com/SatoshiPortal/cyphernode) - Bitcoin Infrastructure Tooling
+[cyphernode](https://github.com/SatoshiPortal/cyphernode) - Bitcoin Infrastructure Tools
 
-[bdk](https://github.com/bitcoindevkit/bdk-cli) - Bitcoin Script Tooling
-
-[postfix](http://www.postfix.org/) - SMTP Mail Protocol Server
-
-[ossec](https://github.com/ossec/ossec) - System Monitoring
-
-[nginx](https://github.com/nginx/nginx) - HTTP Web Protocol Server
+[bdk](https://github.com/bitcoindevkit/bdk-cli) - Bitcoin Wallet Tools
 
 [vault](https://github.com/hashicorp/vault) - Secret Manager
 
@@ -47,12 +39,14 @@ Check out their github and do'nt be afraid to start a conversation and contribut
 
 [mongo](https://github.com/mongodb/mongo) - Database
 
-[docker](https://github.com/docker) - Containerization Technology
+[docker](https://github.com/docker) - Application Containerization
 
-[ansible](https://github.com/ansible/ansible) - Configuration Management & Automation
+[ansible](https://github.com/ansible/ansible) - Service Configuration Manager
 
-[terraform](https://github.com/hashicorp/terraform) - Cloud Resource Provisioning
+[terraform](https://github.com/hashicorp/terraform) - Cloud Resource Manager
 
-[hugo](https://github.com/gohugoio/hugo) - This website is built with hugo
+[hugo](https://github.com/gohugoio/hugo) - <b>This website is built with hugo</b>
 
-[rust](https://rust-lang.org) - Programming Language
+[dart](https://github.com/dart-lang) - Client Programming Language
+
+[rust](https://github.com/rust-lang)  - System Programming Language

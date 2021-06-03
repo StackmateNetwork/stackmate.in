@@ -57,13 +57,15 @@ Bitcoin nodes maintain a shared ledger aka a chain - tracking movement of coins 
 
 The final stage of a money, after proving itself as a medium of exchange, is <b>unit of account</b> (UOA). When we begin to think in this money. 
 
-Civilizations have always converged to a single unit of account, a monetary base unit in which to price all goods and services produced. In the past, this unit was gold. Gold found its value in its scarcity as a natural resource and expensive cost of production. Today, the US Dollar has taken the position of unit of account and finds its value purely in promisary notes and debt. 
+Civilizations have always converged to a single unit of account, a monetary base unit in which to price all goods and services produced. In the past, this unit was gold. Gold found its value in its scarcity as a natural resource and expensive cost of production. Today, the US Dollar has taken the position of unit of account and finds its value purely in promises backed by force and debt. 
 
 *USD settlements take 3+ days on the base layer called FedWire.*
 
 Bitcoin achieves finality within 10 minutes.
 
-Fedwire is also a network, with around 9000 participants (Paypal, Stripe etc.), soon to be surpassed by Bitcoin, with its currently roughly 9000 nodes, and a much lower barrier to entry.
+Fedwire is also a network, with around 9000 participants (Paypal, Stripe etc.).
+
+Bitcoin will serve a similar purpose where [nodes](https://bitnodes.io) will service Layer 2 solutions to build a new digital infrastructure built on a sound monetary base.
 
 ## MORE
 
