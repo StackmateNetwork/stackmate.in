@@ -17,39 +17,42 @@ It is not the fault of any one single individual, rather of a system that contin
 
 <b>When the value you set out to create in this world, is rooted in a sound money, it changes how you approach the world.</b>
 
-For civilization to advance, we must be able to freely collabate towards seeking the truth. Bitcoin has provided, and continues to expose us to the tools and information to begin <b>building a freedom preserving digital infrastructure</b> that will lay the foundation for this pursuit. 
+For civilization to advance, we must be able to freely collabate towards seeking the truth and forwarding science. Bitcoin has provided, and continues to expose us to the tools and information to begin <b>building a freedom preserving digital infrastructure</b> that will lay the foundation for this pursuit. 
 
 Bitcoin is the only instance of a <b>globally decentralized & immutable</b> ledger of economic activity. The digital equivalent of </b>carving facts into stones</b>.
 
-### A global decentralized network of peers
-
+### A global decentralized payment network
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. - Nakamoto (2008)
 
 Bitcoin is a network of individuals aka peers, maintaining a financial ledger by a certain set of rules aka a monetary policy. The monetary policy is enforced by peers collectively agreeing on which software to run - [Bitcoin](https://github.com/bitcoin/bitcoin) and which platforms to conduct technical & social discussions on - currently [Github](https://github.com/bitcoin/bitcoin) , [Twitter](https://twitter.com) or messenger pigeons. 
 
-A peer running a version of [Bitcoin](https://github.com/bitcoin/bitcoin), maintaining the entire ledger, and validating transactions as they are broadcasted to the network, are called full-nodes. 
+A peer running a version of [Bitcoin](https://github.com/bitcoin/bitcoin), maintaining the entire ledger, and validating transactions as they are broadcasted to the network, are called full-nodes. The number of full-nodes on the network is one of the key components of a decentralized network. 
 
-Changes to the software that peers run is a very slow process in bitcoin and this is to protect the monetary policy from arbitrary changes. Not only are changes to the code slow, but also, nodes updating to the new software to fully enforce the new changes takes a while. While this can make Bitcoin seem slow and boring, this is what gives it reliability.
+The ease of running a full-node is directly proportional to the ability of a network to maintain decentralization. 
+
+Changes to the software that full-nodes run is a very slow process in bitcoin and this is to protect the monetary policy from arbitrary changes. Not only are changes to the code slow, but also, full-nodes updating to new software to fully enforce the new changes also takes a while. While this can make Bitcoin seem slow and boring, this is what gives it reliability. More interestingly, this is entirely a social phenomenon that has proven itself over time.
 
 The first property of a sound money is to be a reliable <b>store of value</b> (SOV). 
 
-By providing a stable and predictable monetary policy, the Bitcoin network achieves this property through its think skinned resistance to change as a monetary network.
+By providing a stable and predictable monetary policy, the Bitcoin network achieves this property through its thick skinned resistance to change as a monetary network.
 
 - Bitcoin Maximum Supply - <b>~21 Million BTC</b> (FOREVER)
 
-Only after a money can reliably store value, does it begin its journey towards its achieving its second property of being a <b>medium of exchange</b> (MOX). To facilitate an almost infinite throughput of transactions, Bitcoin delegates this to "Layer 2". 
+Only after a money can reliably store value, does it begin its journey towards its achieving its second property of being a <b>medium of exchange</b> (MOE). To facilitate an almost infinite throughput of transactions, Bitcoin delegates this to "Layer 2". 
 
 Layer 2 is a sub network maintained by Bitcoin nodes, that operate by a different set of more flexible rules. 
 
-Layer 2 operates with less security guarentees but infiniately scalable transaction throughput. 
+It requires Bitcoin to be locked up on the main network with specific conditions, allowing a temporary representation of BTC on another network, in a different form. Think of this as how cash used to represent actual gold locked in a vault.
 
-The native Layer 2 solution is <em>Lightning Network</em>. WBTC on Ethereum is also Layer 2 solution.
+Layer 2 operates with less security guarentees for infiniately scalable transaction throughput. 
+
+The native Layer 2 solution is <em>Lightning Network</em>. WBTC on Etherneum can also be seen as a Layer 2 scaling solution for Bitcoin. 
 
 ### A chain of digital signatures
 
 > We define an electronic coin, as a chain of digital signatures. - Nakamoto (2008)
 
-Bitcoin nodes maintain a shared ledger aka a chain - tracking movement of coins from one individual's lock (address) to another's. Each block in the chain can be thought of as a page on a ledger. The state of this chain can be altered by providing a valid digital signature to unlock coin and subsequently lock it to an address of a new owner. This way, an electronic coin at any one point in time, is represented by a chain of signatures that led to its current owner. We pass on of the ability to sign a new page on a global ledger, where our private key (a very large prime number), is in essence, a <b>cryptographic pen</b>.
+Bitcoin nodes maintain a shared ledger aka a chain - tracking movement of coins from one individual's lock (address) to another's. Each block in the chain can be thought of as a page on a ledger. The state of this chain can be altered by providing a valid digital signature to unlock coin and subsequently lock it to an address of a new owner, on a new page. This way, an electronic coin at any one point in time, is represented by a chain of signatures that led to its current owner. We pass on of the ability to sign on a new page on a global ledger, where our private key (a very large prime number), is in essence, a <b>cryptographic pen</b>.
 
 ### A new monetary base
 
@@ -63,9 +66,9 @@ Civilizations have always converged to a single unit of account, a monetary base
 
 Bitcoin achieves finality within 10 minutes.
 
-Fedwire is also a network, with around 9000 participants (Paypal, Stripe etc.).
+Fedwire is also a network, with ~ 9000 participants (Paypal, Stripe etc.), who collectively provide the a fiat payment infrastructure.
 
-Bitcoin will serve a similar purpose where [nodes](https://bitnodes.io) will service Layer 2 solutions to build a new digital infrastructure built on a sound monetary base.
+Bitcoin will serve a similar purpose, where [nodes](https://bitnodes.io) will service Layer 2 solutions to build a new digital infrastructure built on a sound monetary base.
 
 ## MORE
 
