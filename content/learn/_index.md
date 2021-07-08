@@ -21,15 +21,14 @@ For civilization to advance, we must be able to freely collabate towards seeking
 
 Bitcoin is the only instance of a <b>globally decentralized & immutable</b> ledger of economic activity. The digital equivalent of </b>carving facts into stones</b>.
 
-### A global decentralized payment network
+### A decentralized payment network
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. - Nakamoto (2008)
 
 Bitcoin is a network of individuals aka peers, maintaining a financial ledger by a certain set of rules aka a monetary policy. The monetary policy is enforced by peers collectively agreeing on which software best enforces thhis policy - currently [Bitcoin](https://github.com/bitcoin/bitcoin) and which platforms to conduct technical & social discussions on - currently [Github](https://github.com/bitcoin/bitcoin) , [Twitter](https://twitter.com) or messenger pigeons. 
 
 A peer running a version of [Bitcoin](https://github.com/bitcoin/bitcoin), maintaining the entire ledger, and validating transactions as they are broadcasted to the network, are called full-nodes (fully validating nodes). The number and distribution of full-nodes on the network is one of the key components of a decentralized network. 
 
-The ease of running a full-node is directly proportional to the ability of a network to maintain decentralization over time. 
-
+<b>The ease and inexpensiveness of running a full-node is what determines a network's ability to maintain and grow in decentralization over time.</b>
 
 Changes to the software that full-nodes run is a very slow process in bitcoin and this is to protect the monetary policy from arbitrary changes. Not only are changes to the code slow, but also, full-nodes updating to new software to fully enforce the new changes also takes a while. While this can make Bitcoin seem slow and boring, this is what gives it reliability. It is a feature not a bug. More interestingly, it is a social phenomenon which cannot be replicated by any technology and is exactly what makes the entire experience of bitcoin the most grounded. 
 
