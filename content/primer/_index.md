@@ -42,17 +42,17 @@ Only after a money can reliably store value, does it begin its journey towards a
 
 Layer 2 is a sub network maintained by Bitcoin nodes, that operate by a different set of more flexible rules. 
 
-It requires Bitcoin to be locked up on the main network with specific conditions, allowing a temporary representation of BTC on another network, in a different form. Think of this as how cash used to represent actual gold locked in a vault.
+It requires Bitcoin to be locked up on the main network with specific conditions, allowing a temporary representation of BTC on another network, in a different form. Think of this as how cash used to represent actual gold locked in a vault. At any time the cash can be redeemed for its equivalent in gold.
 
-Layer 2 operates with less security guarentees for infiniately scalable transaction throughput. 
+Layer 2 solutions make trade-offs in the security guarentees of the Bitcoin main chain, to achieve properties like privacy, infinite transaction throughput or even facilitate an entire application layer. 
 
 Examples of some native layer 2 solutions include: 
 
-- [Lightning Network](https://blockstream.com/lightning/) - Payment infrastructure
+- [Lightning Network](https://blockstream.com/lightning/) - Payment Routing Network
 - [Liquid](https://blockstream.com/liquid/) - Digital Asset Issuance
 - [Elements](https://blockstream.com/elements/) - Federated Side Chains
 
-Smart contracting platforms built on Bitcoin:
+Examples of layer 2 smart contracting platforms:
 
 - [BlockStack](https://www.stacks.co/)
 - [RootStock](https://www.rsk.co/)
@@ -64,6 +64,8 @@ Smart contracting platforms built on Bitcoin:
 
 The final stage of a money, after proving itself as a medium of exchange, is <b>unit of account</b> (UOA). When we begin to think in this money. 
 
+When you look at all the things around you, the one thing that unifies them, is their price. The value you give it in your local unit of account. 
+
 Civilizations have always converged to a single unit of account, a monetary base unit in which to price all goods and services produced. In the past, this unit was gold. Gold found its value in its scarcity as a natural resource and expensive cost of production. Today, the US Dollar has taken the position of unit of account and finds its value purely in promises backed by force and debt. 
 
 *USD settlements take 3+ days on the base layer called FedWire.*
@@ -72,7 +74,7 @@ Bitcoin achieves finality within 10 minutes.
 
 Fedwire is also a network, with ~ 9000 participants (Paypal, Stripe etc.), who collectively provide the a fiat payment infrastructure.
 
-Bitcoin will serve a similar purpose, where [nodes](https://bitnodes.io) will service Layer 2 solutions to build a new digital infrastructure built on a sound monetary base.
+Bitcoin will serve a similar purpose, where [nodes](https://bitnodes.io) will service Layer 2 networks to build a new digital infrastructure built on a sound monetary base.
 
 ## MORE
 
