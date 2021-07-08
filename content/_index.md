@@ -6,11 +6,16 @@ draft: false
 
 # Stackmate India
 
-The Indian channel of Stackmate Network. 
+The Indian channel of Stackmate Network - a network of Bitcoiners with nearly 10 years of multi-disciplinary involvement on the Bitcoin network. 
 
 ## Products & Services
 
-> Coming soon ...
+We offer asset management and technology consulting for businesses and individuals interested in building on Bitcoin (BTC). Feel free to reach out to us via [email](mailto:vm@stackmate.in) and schedule a free private call to learn about all that is possible with Bitcoin. 
+
+Developers can join the [Bitcoin India](https://discord.gg/rEW9SBvN) discord channel where the community is building public infrastructure for India.
+
+
+> Stackmate Wallet (ETA: August 18, 2021)
 
 Our core product is a bitcoin wallet which supports a range of bitcoin scripts, offering <b>regular self-custody & a variety of shared-custody bitcoin storage options; which allow you to protect your bitcoin with additional layers, involving your friends and family as your trusted partners.</b>
 
