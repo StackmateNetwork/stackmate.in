@@ -9,7 +9,7 @@ pre: '<i class="fas fa-graduation-cap"></i> '
 
 ### A tool for social evolution
 
-We often find ourselves projecting hatred towards money. Poverty is often seen as a side-effect of it. However, it is not money, rather <em>fiat</em> money, that has created this reputation. Since the 1970's the US, and rest of the world, moved off the gold standard to a fiat standard. Fiat is essentially money backed by debt and promises that can be enforced with lethal weapons by a centralized issuing body - aka a government.<b> Fiat is a fundamentally rigged system that relies on trust.</b> 
+We often find ourselves projecting hatred towards money. Poverty is often seen as a side-effect of it. However, it is not money, rather <em>fiat</em> money, that has created this reputation. Since the 1970's the US, and rest of the world, moved off the gold standard to a fiat standard. Fiat is essentially money backed by debt and promises that can be enforced with lethal weapons by a centralized issuing body - aka a government.<b> Fiat is a fundamentally rigged system that relies on trust.</b>
 
 It is not the fault of any one single individual, rather of a system that continously corrupts the incentives of man. 
 
@@ -24,13 +24,14 @@ Bitcoin is the only instance of a <b>globally decentralized & immutable</b> ledg
 ### A global decentralized payment network
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. - Nakamoto (2008)
 
-Bitcoin is a network of individuals aka peers, maintaining a financial ledger by a certain set of rules aka a monetary policy. The monetary policy is enforced by peers collectively agreeing on which software to run - [Bitcoin](https://github.com/bitcoin/bitcoin) and which platforms to conduct technical & social discussions on - currently [Github](https://github.com/bitcoin/bitcoin) , [Twitter](https://twitter.com) or messenger pigeons. 
+Bitcoin is a network of individuals aka peers, maintaining a financial ledger by a certain set of rules aka a monetary policy. The monetary policy is enforced by peers collectively agreeing on which software best enforces thhis policy - currently [Bitcoin](https://github.com/bitcoin/bitcoin) and which platforms to conduct technical & social discussions on - currently [Github](https://github.com/bitcoin/bitcoin) , [Twitter](https://twitter.com) or messenger pigeons. 
 
-A peer running a version of [Bitcoin](https://github.com/bitcoin/bitcoin), maintaining the entire ledger, and validating transactions as they are broadcasted to the network, are called full-nodes. The number of full-nodes on the network is one of the key components of a decentralized network. 
+A peer running a version of [Bitcoin](https://github.com/bitcoin/bitcoin), maintaining the entire ledger, and validating transactions as they are broadcasted to the network, are called full-nodes (fully validating nodes). The number and distribution of full-nodes on the network is one of the key components of a decentralized network. 
 
-The ease of running a full-node is directly proportional to the ability of a network to maintain decentralization. 
+The ease of running a full-node is directly proportional to the ability of a network to maintain decentralization over time. 
 
-Changes to the software that full-nodes run is a very slow process in bitcoin and this is to protect the monetary policy from arbitrary changes. Not only are changes to the code slow, but also, full-nodes updating to new software to fully enforce the new changes also takes a while. While this can make Bitcoin seem slow and boring, this is what gives it reliability. More interestingly, this is entirely a social phenomenon that has proven itself over time.
+
+Changes to the software that full-nodes run is a very slow process in bitcoin and this is to protect the monetary policy from arbitrary changes. Not only are changes to the code slow, but also, full-nodes updating to new software to fully enforce the new changes also takes a while. While this can make Bitcoin seem slow and boring, this is what gives it reliability. It is a feature not a bug. More interestingly, it is a social phenomenon which cannot be replicated by any technology and is exactly what makes the entire experience of bitcoin the most grounded. 
 
 The first property of a sound money is to be a reliable <b>store of value</b> (SOV). 
 
@@ -38,7 +39,7 @@ By providing a stable and predictable monetary policy, the Bitcoin network achie
 
 - Bitcoin Maximum Supply - <b>~21 Million BTC</b> (FOREVER)
 
-Only after a money can reliably store value, does it begin its journey towards its achieving its second property of being a <b>medium of exchange</b> (MOE). To facilitate an almost infinite throughput of transactions, Bitcoin delegates this to "Layer 2". 
+Only after a money can reliably store value, does it begin its journey towards achieving its second property of being a <b>medium of exchange</b> (MOE). To facilitate an almost infinite throughput of transactions, Bitcoin delegates this to "Layer 2". 
 
 Layer 2 is a sub network maintained by Bitcoin nodes, that operate by a different set of more flexible rules. 
 
@@ -46,13 +47,12 @@ It requires Bitcoin to be locked up on the main network with specific conditions
 
 Layer 2 operates with less security guarentees for infiniately scalable transaction throughput. 
 
-The native Layer 2 solution is <em>Lightning Network</em>. WBTC on Etherneum can also be seen as a Layer 2 scaling solution for Bitcoin. 
+Examples of some native layer 2 solutions include: 
 
-### A chain of digital signatures
+- [Lightning Network](https://blockstream.com/lightning/) - Payment infrastructure
+- [Liquid](https://blockstream.com/liquid/) - Digital Asset Issuance
+- [Elements](https://blockstream.com/elements/) - Federated Side Chains
 
-> We define an electronic coin, as a chain of digital signatures. - Nakamoto (2008)
-
-Bitcoin nodes maintain a shared ledger aka a chain - tracking movement of coins from one individual's lock (address) to another's. Each block in the chain can be thought of as a page on a ledger. The state of this chain can be altered by providing a valid digital signature to unlock coin and subsequently lock it to an address of a new owner, on a new page. This way, an electronic coin at any one point in time, is represented by a chain of signatures that led to its current owner. We pass on of the ability to sign on a new page on a global ledger, where our private key (a very large prime number), is in essence, a <b>cryptographic pen</b>.
 
 ### A new monetary base
 

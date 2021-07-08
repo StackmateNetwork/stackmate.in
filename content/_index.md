@@ -29,7 +29,7 @@ A simple non-custodian exchange that links a Bitcoin address, public key or ligh
 
 Our exchange rates are all inclusive, i.e. exchange fee + miner fee + other service fees + other hidden fees. What you see, is what you get, straight into your custody.
 
-As the first major update we will be providing an opt-in to a daily/weekly/monthly BUY plan for <b>automatic sat stacking.</b> at no extra cost. [Dollar Cost Averaging](https://dcabtc.com), a form of `SIP`, is THE proven BEST long term strategy to enter the Bitcoin network and protect yourself from volatility.
+As the first major update we will be providing an opt-in to a daily/weekly/monthly BUY plan for <b>automatic sat stacking</b> at no extra cost. [Dollar Cost Averaging](https://dcabtc.com), a form of `SIP`, is THE proven BEST long term strategy to enter the Bitcoin network and protect yourself from volatility.
 
 > Services
 
@@ -37,7 +37,7 @@ We offer asset management and technology consulting for businesses and individua
 
 Reach out to us via [email](mailto:vm@stackmate.in) to schedule a private call. 
 
-Join the public [Bitcoin India](https://discord.gg/rEW9SBvN) community discord channel where all you can find all the resources you need to get started with Bitcoin at any level.
+Join the public [Bitcoin India](https://discord.gg/rEW9SBvN) community discord channel where you can find all the resources you need to get started with Bitcoin at any level.
 
 <!-- <style>
 .android-badge{
