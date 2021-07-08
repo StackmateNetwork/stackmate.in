@@ -52,6 +52,11 @@ Examples of some native layer 2 solutions include:
 - [Liquid](https://blockstream.com/liquid/) - Digital Asset Issuance
 - [Elements](https://blockstream.com/elements/) - Federated Side Chains
 
+Smart contracting platforms built on Bitcoin:
+
+- [BlockStack](https://www.stacks.co/)
+- [RootStock](https://www.rsk.co/)
+- [RGB](https://rgb-org.github.io/)
 
 ### A new monetary base
 
