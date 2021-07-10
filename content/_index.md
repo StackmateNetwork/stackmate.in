@@ -27,7 +27,7 @@ Our core product is a bitcoin wallet which supports a range of bitcoin scripts, 
 
 A simple non-custodian exchange that links a Bitcoin address, public key or lightning invoice to an INR bank account. 
 
-Our exchange rates are all inclusive, i.e. exchange fee + miner fee + other service fees + other hidden fees. What you see, is what you get, straight into your custody.
+WUSIWUG Exchange Rate, i.e. what you see is what you get. All inclusive exchange fee + miner fee + other service fees + other hidden fees.
 
 As the first major update we will be providing an opt-in to a daily/weekly/monthly BUY plan for <b>automatic sat stacking</b> at no extra cost. [Dollar Cost Averaging](https://dcabtc.com), a form of `SIP`, is THE proven BEST long term strategy to enter the Bitcoin network and protect yourself from volatility.
 
