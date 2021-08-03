@@ -37,7 +37,7 @@ We offer asset management and technology consulting for businesses and individua
 
 Reach out to us via [email](mailto:vm@stackmate.in) to schedule a private call. 
 
-Join the public [Bitcoin India](https://discord.gg/rEW9SBvN) community discord channel where you can find all the resources you need to get started with Bitcoin at any level.
+Join the public [Bitcoin-only India](https://discord.gg/bZmPtEKZD8) community discord channel where you can find all the resources you need to get started with Bitcoin at any level.
 
 <!-- <style>
 .android-badge{
