@@ -10,7 +10,7 @@ The Indian channel of Stackmate Network - a network of Bitcoiners with nearly 10
 
 ## Products & Services
 
-> Stackmate Wallet (ETA: August, 2021)
+> Stackmate Wallet (ETA: November, 2021)
 
 Our core product is a bitcoin wallet which supports a range of bitcoin scripts, offering <b>regular self-custody & a variety of shared-custody bitcoin storage options; which allow you to protect your bitcoin with additional layers, involving your friends and family as your trusted partners.</b>
 
@@ -23,17 +23,19 @@ Our core product is a bitcoin wallet which supports a range of bitcoin scripts, 
 - <b>Customized support</b> - email , jitsi & signal
 - <b>Hardware distribution</b> - coldcard & trezor
 
-> Non-custodian Exchange (ETA: January, 2022)
+> Non-custodian Exchange (ETA: June, 2022)
 
-A simple non-custodian exchange that links a Bitcoin address, public key or lightning invoice to an INR bank account. 
+A simple non-custodian exchange to stack sats directly into your own wallet.
+
+BUY as low as 100 INR and receive sats in your wallet over Lightning instantly; or wait a few hours until your transaction is batched over Mainnet.
 
 WUSIWUG Exchange Rate, i.e. what you see is what you get. All inclusive exchange fee + miner fee + other service fees + other hidden fees.
 
-As the first major update we will be providing an opt-in to a daily/weekly/monthly BUY plan for <b>automatic sat stacking</b> at no extra cost. [Dollar Cost Averaging](https://dcabtc.com), a form of `SIP`, is THE proven BEST long term strategy to enter the Bitcoin network and protect yourself from volatility.
+As the first major update we will be providing an opt-in to a daily/weekly/monthly BUY plan for <b>automatic sat stacking</b> at no extra cost. [Dollar Cost Averaging](https://dcabtc.com), a form of `SIP` - THE proven BEST long term strategy to enter the Bitcoin network and protect yourself from volatility.
 
 > Services
 
-We offer asset management and technology consulting for businesses and individuals interested in building on Bitcoin (BTC). 
+We offer <b>asset management</b> and <b>technology consulting</b> for businesses and individuals interested in building on Bitcoin (BTC). 
 
 Reach out to us via [email](mailto:vm@stackmate.in) to schedule a private call. 
 
