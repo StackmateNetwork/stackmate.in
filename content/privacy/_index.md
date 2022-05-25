@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-date: 2020-04-28T14:40:12+02:00
+date: 2022-05-25T19:08:12+02:00
 draft: false
 weight: 9
 pre: '<i class="fas fa-user-lock"></i> '
