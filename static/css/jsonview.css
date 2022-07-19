@@ -1,7 +1,7 @@
 .json {
         padding: 16px;
         background-color: #272822;
-        color: #FFF;
+        color: #252c31;
         font-family: "Consolas", menlo, monospace;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .json-key {
-	color: #EEE;
+	color: #252c31;
 	margin-right: 4px;
 	margin-left: 4px;
 }

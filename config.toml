@@ -1,7 +1,7 @@
 baseURL = "https://stackmate.in"
 languageCode = "en-us"
-title = "Stackmate India"
 theme = "learn"
+title = "Stackmate India"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -24,36 +24,33 @@ disableNextPrev = true
 # Order sections in menu by "weight" or "title". Default to "weight"
 ordersectionsby = "weight"
 # Change default color scheme with a variant one. Can be "red", "blue", "green".
-themeVariant = "blue"
+themeVariant = "green"
 # Provide a list of custom css files to load relative from the `static/` folder in the site root.
 custom_css = ["css/style.css", "css/jsonview.css", "css/blog.css"]
 # Used for social media preview cards
-images = ["static/images/vault.pdf"]
+images = ["static/images/Stackmate.png"]
 
 # Disable the "copy to clipboard" button for inline code
 disableInlineCopyToClipBoard = true
 
 [permalinks]
-tags = "/blog/tags/:slug"
 author = "/blog/authors/:slug"
 blog = "/blog/:year/:month/:title/"
+tags = "/blog/tags/:slug"
 
 [taxonomies]
-tag = "tags"
 author = "authors"
 category = "categories"
+tag = "tags"
 
 # render raw html
 [markup.goldmark.renderer]
 unsafe = true
 
-
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-book-open'></i> Essential Reading"
 url = "https://nakamotoinstitute.org/literature"
 weight = 5
-
-
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-headphones-alt'></i> Essential Listening"
